@@ -24,7 +24,6 @@ Most projects include an active view of current transactions occuring on the net
 Here are some things to know:
 
 - 💫 = Shows live transactions
-- ✨ = Shows live transactions
 - <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, Main, Test, Dev networks are supported.
 
 
@@ -45,11 +44,6 @@ User Interfaces to the DEX
 - [Sologenic DEX](https://sologenic.org) The Decentralized Exchange UI from Sologenic
 - [XRP Tookit](https://www.xrptoolkit.com) This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
 
-- [XRPL.org Explorer](https://livenet.xrpl.org) ⚡️ [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
-- [XRPScan](https://xrpscan.com) ⚡️
-- [XRPL.org Explorer](https://livenet.xrpl.org) ✨ [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
-- [XRPScan](https://xrpscan.com) ✨
-
 ### XRPL DEX
 
 Stuff related to the built-in [XRPL DEX](https://xrpl.org/decentralized-exchange.html)
@@ -67,10 +61,6 @@ User Interfaces to the DEX
 Monitors inter-exchange XRP flows. [ODL is a product offered through RippleNet.](https://ripple.com/ripplenet/on-demand-liquidity/)
 
 - [XRPL ODL Rosetta](https://threexrp.dev) 💫 XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
-- [XRPL ODL Rosetta](https://threexrp.dev) ⚡️ ODL monitor that connects to the exchanges it's watching, all transactions can be visualised on the interactive globe.
-- [XRPL ODL Rosetta](https://threexrp.dev) ⚡️ XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
-- [XRPL ODL Rosetta](https://threexrp.dev) ✨ XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
-
 
 ### ODL Miscelaneous
 
