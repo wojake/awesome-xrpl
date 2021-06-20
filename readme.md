@@ -74,17 +74,7 @@ Relating to [PayString][#paystring.org]
 ### X-address
 
 A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. _[via](https://xrpl.org/accounts.html#addresses)_
-
-<details><summary> ℹ️ </summary>
-
-
-> A format that "packs" a destination tag into the address. 
-
-> A classic address is an account on XRPL, with an optional tag.
-
 [See XRPL.org Accounts](https://xrpl.org/accounts.html#addresses)
-
-</details>
 
 - [X-address Info](https://xrpaddress.info) Everything you wanted to know about X-address format.
 
