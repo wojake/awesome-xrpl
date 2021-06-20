@@ -17,7 +17,7 @@
 
 ## Conventions
 
-The XRPL is a decentralized, immutable, censorship-resistant, distributed-ledger. It is also near instant, and the dameon itself is capable of websockets.
+The XRPL is a decentralized, immutable, censorship-resistant, distributed-ledger. It is also near instant, and the daemon itself is capable of websockets.
 
 Most projects include an active view of current transactions occuring on the network.
 
