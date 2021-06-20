@@ -44,17 +44,6 @@ User Interfaces to the DEX
 - [Sologenic DEX](https://sologenic.org) The Decentralized Exchange UI from Sologenic
 - [XRP Tookit](https://www.xrptoolkit.com) This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
 
-### XRPL DEX
-
-Stuff related to the built-in [XRPL DEX](https://xrpl.org/decentralized-exchange.html)
-
-#### DEX UI
-
-User Interfaces to the DEX
-
-- [Sologenic.org](https://sologenic.org) The Decentralized Exchange UI from Sologenic
-- [XRP Tookit](https://www.xrptoolkit.com) This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
-
 
 #### ODL Monitoring
 
