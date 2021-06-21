@@ -154,6 +154,7 @@ Twitter bots that crunch numbers daily.
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
 - [Trezor](https://trezor.io) - Trezor wallet, supports XRP.
+- [Paper Account Generator](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side for generating a seed. By [Wietse][#wietse]
 
 ### Interledger
 
@@ -164,7 +165,7 @@ Twitter bots that crunch numbers daily.
 
 Stuff that didn't really fit anywhere else.
 
-- [FUD Bingo](https://fudbingo.com) - A bingo card for XRP common misconceptions. Created by [Wietse](#wietse)
+- [FUD Bingo](https://fudbingo.com) - A bingo card for XRP common misconceptions. Created by [Wietse][#wietse]
 - [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
   [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
   including it's remaining balance and chart of it's staggered release.
