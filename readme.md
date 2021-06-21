@@ -6,6 +6,7 @@
 ## Contents
 
 - [XRPL Explorers](#xrpl-explorers)
+- [XRPL Tokens](#xrpl-tokens)
 - [XRPL DEX](#xrpl-dex)
   - [DEX UI](#dex-ui)
   - [DEX Visualizer](#dex-visualizer)
@@ -35,6 +36,14 @@ Here are some things to know:
 - [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com) A block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
 - [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
 - [XRPScan](https://xrpscan.com) 💫
+
+### XRPL Tokens
+
+- [XUMM.Community Token List](https://xumm.community/tokens) - See all tokens
+  issued on the XRPL, as well as issue your own token using the wizard that
+  steps you through the process.
+- [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
+  token list.
 
 ### XRPL DEX
 
