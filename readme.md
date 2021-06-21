@@ -8,6 +8,7 @@
 - [XRPL Explorers](#xrpl-explorers)
 - [XRPL DEX](#xrpl-dex)
   - [DEX UI](#dex-ui)
+  - [DEX Visualizer](#dex-visualizer)
 - [ODL Monitoring](#odl-monitoring)
 - [PayString](#paystring)
 - [X-address](#x-address)
@@ -37,15 +38,21 @@ Here are some things to know:
 
 ### XRPL DEX
 
-Stuff related to the built-in [XRPL DEX](https://xrpl.org/decentralized-exchange.html)
+Related to the built-in [XRPL DEX](https://xrpl.org/decentralized-exchange.html)
+
 
 #### DEX UI
 
-User Interfaces to the DEX
+User Interfaces to the DEX.
 
 - [Sologenic DEX](https://sologenic.org) The Decentralized Exchange UI from Sologenic
 - [XRP Tookit](https://www.xrptoolkit.com) This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
 
+#### DEX Visualizer
+
+Tools to visualize trades on the DEX.
+
+[XRPLApps DEX](https://dex.xrplapps.com/) - The DEX tool of the XRPLApps Suite
 
 #### ODL Monitoring
 
