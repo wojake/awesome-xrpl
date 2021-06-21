@@ -10,6 +10,7 @@
 - [XRPL DEX](#xrpl-dex)
   - [DEX UI](#dex-ui)
   - [DEX Visualizer](#dex-visualizer)
+- [XRPL Validators](#xrpl-validators)
 - [ODL Monitoring](#odl-monitoring)
 - [PayString](#paystring)
 - [X-address](#x-address)
@@ -71,6 +72,15 @@ User Interfaces to the DEX.
 Tools to visualize trades on the DEX.
 
 [Velocity of Value](https://dex.xrplapps.com/) - The DEX tool of the XRPLApps Suite
+
+### XRPL Validators
+
+- [XRPL Apps Validator Stats & Ranking](https://stats.xrplapps.com/) - The
+  validator stats of the XRPLApps Suite.
+- [XRPScan Validator Registry](https://xrpscan.com/validators) 💫 - The XRPScan
+  validator registry.
+- [XRPL.org/network/validators Explorer](https://livenet.xrpl.org/network/validators) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org/network/validators)[<kbd>T</kbd>](https://testnet.xrpl.org/network/validators)[<kbd>D</kbd>](https://devnet.xrpl.org/network/validators)- The
+  XRPL.org Explorer's Network Validators.
 
 #### ODL Monitoring
 
