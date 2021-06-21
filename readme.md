@@ -164,9 +164,12 @@ Twitter bots that crunch numbers daily.
 
 Stuff that didn't really fit anywhere else.
 
+- [FUD Bingo](https://fudbingo.com) - A bingo card for XRP common misconceptions. Created by [Wietse](#wietse)
 - [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
   [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
   including it's remaining balance and chart of it's staggered release.
+
+
 
 ## Contribute
 
@@ -185,3 +188,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [#xumm.app]: https://xumm.app
 [#xumm-sdk]: https://xumm.readme.io
 [#ledger.com]: https://ledger.com
+[#wietse]: https://wietse.com
