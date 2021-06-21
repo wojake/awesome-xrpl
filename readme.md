@@ -70,7 +70,7 @@ User Interfaces to the DEX.
 
 Tools to visualize trades on the DEX.
 
-[XRPLApps DEX](https://dex.xrplapps.com/) - The DEX tool of the XRPLApps Suite
+[Velocity of Value](https://dex.xrplapps.com/) - The DEX tool of the XRPLApps Suite
 
 #### ODL Monitoring
 
