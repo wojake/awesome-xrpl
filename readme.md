@@ -149,6 +149,7 @@ Twitter bots that crunch numbers daily.
 - [Ledger][#ledger.com] Ledger is a hardware wallet manufacturer. Their
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
+- [Trezor](https://trezor.io) - Trezor wallet, supports XRP.
 
 ### Interledger
 
