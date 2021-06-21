@@ -157,8 +157,7 @@ Twitter bots that crunch numbers daily.
 
 ### Interledger
 
-- 😎 [awesome-ilp](https://github.com/vhpoet/awesome-ilp) - A curated list of ILP
-  resources
+- [**Awesome Interledger**](https://github.com/vhpoet/awesome-ilp) [![awesome-ilp](https://awesome.re/badge.svg)](https://github.com/vhpoet/awesome-ilp)
 
 
 ### Misc
