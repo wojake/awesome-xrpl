@@ -71,7 +71,7 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 ### XRPL Developer Tools
 
-- 🌟[XRPL.org Dev Tools](https://xrpl.org/dev-tools.html) Developer tools for working with the XRPL Ledger.
+- 🌟 [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html) Developer tools for working with the XRPL Ledger.
 
 
 ### Twitter Bots
