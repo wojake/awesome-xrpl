@@ -13,6 +13,7 @@
 - [X-address](#x-address)
 - [XRPL Developer Tools](#xrpl-developer-tools)
 - [Twitter Bots](#twitter-bots)
+- [Non-Custodial Wallets](#non-custodial-wallets)
 - [Interledger](#interledger)
 
 
@@ -74,7 +75,14 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 ### XRPL Developer Tools
 
-- 🌟 [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html) Developer tools for working with the XRPL Ledger.
+- 🌟 [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html) - Developer tools for working with the XRPL Ledger
+
+
+#### Connecting a Hardware Wallet
+
+- [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
+  with [Ledger][#ledger.com] wallets.
+- [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
 
 
 ### Twitter Bots
@@ -85,6 +93,21 @@ Twitter bots that crunch numbers daily.
 - [xrp1ntel](https://mobile.twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod)
 - [XRP Updates Bot](https://mobile.twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
+
+### Non-Custodial Wallets
+
+- 🌟 [XUMM][#xumm.app] - _Pronounced "sum"_ - XUMM is a self-custodial wallet for
+  Android & iOS, built by [XRPL-Labs][#xrpl-labs]. XUMM can hold many accounts,
+  and is easy to setup. It strives to deliver the best XRPL experience. It has
+  several features not found in any other wallet, including Tangram integration
+  and xApps which are vetted by the XRPL-Labs team.
+  The [XUMM SDK][#xumm-sdk] provides functionality for integrating with XUMM
+  user's XUMM Wallet. For power users, XUMM will offer a Pro subscription
+  service that will enable additional functionality, like push notifications on
+  all your wallet's activity.
+- [Ledger][#ledger.com] Ledger is a hardware wallet manufacturer. Their
+  wallets support XRPL, and are supported by most tools, through their 
+  [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
 
 ### Interledger
 
@@ -104,3 +127,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [#paystring.org]: https://paystring.org "The Unviersal Payment Pointer"
 [#xrpl4j]: https://github.com/XRPLF/xrpl-py
 [#xrpl-py]: https://github.com/XRPLF/xrpl-py
+[#xrpl-labs]: https://xrpl-labs.com/
+[#xumm.app]: https://xumm.app
+[#xumm-sdk]: https://xumm.readme.io
+[#ledger.com]: https://ledger.com
