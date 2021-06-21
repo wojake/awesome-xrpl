@@ -66,6 +66,9 @@ Relating to [PayString][#paystring.org]
 A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. _[via](https://xrpl.org/accounts.html#addresses)_
 
 - [X-address Info](https://xrpaddress.info) Everything you wanted to know about X-address format.
+- [xrpl-tagged-address-codec](https://github.com/xrp-community/xrpl-tagged-address-codec) js package for encoding/decoding X-address format
+- [xrpl4j][#xrpl4j] - java library, supports X-address and classic formats
+- [xrpl-py][#xrpl-py] - python library, supports X-address and classic formats
 
 
 ### XRPL Developer Tools
@@ -98,3 +101,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 [#paystring.org]: https://paystring.org "The Unviersal Payment Pointer"
+[#xrpl4j]: https://github.com/XRPLF/xrpl-py
+[#xrpl-py]: https://github.com/XRPLF/xrpl-py
