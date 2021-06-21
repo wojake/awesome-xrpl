@@ -18,7 +18,7 @@
 - [Twitter Bots](#twitter-bots)
 - [Non-Custodial Wallets](#non-custodial-wallets)
 - [Interledger](#interledger)
-
+- [Misc](#misc)
 
 ## Conventions
 
@@ -81,6 +81,7 @@ Tools to visualize trades on the DEX.
   validator registry.
 - [XRPL.org Explorer](https://livenet.xrpl.org/network/validators) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org/network/validators)[<kbd>T</kbd>](https://testnet.xrpl.org/network/validators)[<kbd>D</kbd>](https://devnet.xrpl.org/network/validators)- The
   XRPL.org Explorer's Network Validators.
+
 
 #### ODL Monitoring
 
@@ -156,6 +157,14 @@ Twitter bots that crunch numbers daily.
 - 😎 [awesome-ilp](https://github.com/vhpoet/awesome-ilp) - A curated list of ILP
   resources
 
+
+### Misc
+
+Stuff that didn't really fit anywhere else.
+
+- [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
+  [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
+  including it's remaining balance and chart of it's staggered release.
 
 ## Contribute
 
