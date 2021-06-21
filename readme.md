@@ -45,9 +45,18 @@ Here are some things to know:
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
   token list.
 
+#### Casino Coin (CSC)
+
+- [CasinoCoin.info](https://casinocoin.info/) - Everything you wanted to know
+  about CSC. Has quickly grown to a great source for analyzing liquidity
+  of the CSC token on the [XRPL DEX][#xrpldex], and all info relating to CSC.
+  Several tools relating to liquidity are available. It also breaks down all
+  DEX orders relating to CSC.
+
+
 ### XRPL DEX
 
-Related to the built-in [XRPL DEX](https://xrpl.org/decentralized-exchange.html)
+Related to the built-in [XRPL DEX][#xrpldex]
 
 
 #### DEX UI
@@ -142,6 +151,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 
+[#xrpldex]: https://xrpl.org/decentralized-exchange.html
 [#paystring.org]: https://paystring.org "The Unviersal Payment Pointer"
 [#xrpl4j]: https://github.com/XRPLF/xrpl-py
 [#xrpl-py]: https://github.com/XRPLF/xrpl-py
