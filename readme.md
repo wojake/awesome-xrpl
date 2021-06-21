@@ -92,7 +92,7 @@ Monitors inter-exchange XRP flows. [ODL is a product offered through RippleNet.]
 
 - [Utility Scan](https://utility-scan.com) - Monitors the ODL corridors and
   their trades for producing ODL analytics. Has a public API.
-- [XRPL ODL Rosetta](https://threexrp.dev) 💫 XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
+- [XRPL ODL Rosetta](https://threexrp.dev) 💫 [🌐](https://threexrp.dev/app.html) XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
 
 ### ODL Miscelaneous
 
