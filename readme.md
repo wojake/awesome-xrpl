@@ -76,6 +76,8 @@ Tools to visualize trades on the DEX.
 
 Monitors inter-exchange XRP flows. [ODL is a product offered through RippleNet.](https://ripple.com/ripplenet/on-demand-liquidity/)
 
+- [Utility Scan](https://utility-scan.com) - Monitors the ODL corridors and
+  their trads for producing ODL analytics. Has a public API.
 - [XRPL ODL Rosetta](https://threexrp.dev) 💫 XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
 
 ### ODL Miscelaneous
@@ -114,9 +116,11 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 Twitter bots that crunch numbers daily.
 
-- [Liquidity Index Bot](https://mobile.twitter.com/liquidityb) Posts the current snapshot of the Liquidity Index. The index was invented by [@tenitoshi](https://mobile.twitter.com/tenitoshi), and the bot is maintained by [@CinnappleFun](https://mobile.twitter.com/CinnappleFun)
-- [xrp1ntel](https://mobile.twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod)
-- [XRP Updates Bot](https://mobile.twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
+- [Liquidity Index Bot](https://twitter.com/liquidityb) Posts the current snapshot of the Liquidity Index. The index was invented by [@tenitoshi](https://mobile.twitter.com/tenitoshi), and the bot is maintained by [@CinnappleFun](https://mobile.twitter.com/CinnappleFun)
+- [UtilityScan](https://twitter.com/UtilityScan) - XRP On Demand Liquidity
+  Tracker Running an XRPL Validator.  ([UtilityScan.com](https://utility-scan.com))
+- [xrp1ntel](https://twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod)
+- [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
 
 ### Non-Custodial Wallets
