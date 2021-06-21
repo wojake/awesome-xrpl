@@ -108,6 +108,8 @@ Twitter bots that crunch numbers daily.
   and is easy to setup. It strives to deliver the best XRPL experience. It has
   several features not found in any other wallet, including Tangram integration
   and xApps which are vetted by the XRPL-Labs team.
+  [XRPL-Labs/XUMM-App](https://github.com/XRPL-Labs/XUMM-App) is the source of
+  the react native application.
   The [XUMM SDK][#xumm-sdk] provides functionality for integrating with XUMM
   user's XUMM Wallet. For power users, XUMM will offer a Pro subscription
   service that will enable additional functionality, like push notifications on
