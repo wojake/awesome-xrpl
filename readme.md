@@ -10,9 +10,10 @@
   - [DEX UI](#dex-ui)
 - [ODL Monitoring](#odl-monitoring)
 - [PayString](#paystring)
-- [Twitter Bots](#twitter-bots)
 - [X-address](#x-address)
 - [XRPL Developer Tools](#xrpl-developer-tools)
+- [Twitter Bots](#twitter-bots)
+- [Interledger](#interledger)
 
 
 ## Conventions
@@ -81,6 +82,11 @@ Twitter bots that crunch numbers daily.
 - [xrp1ntel](https://mobile.twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod)
 - [XRP Updates Bot](https://mobile.twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
+
+### Interledger
+
+- [awesome-ilp](https://github.com/vhpoet/awesome-ilp) - A curated list of ILP
+  resources
 
 
 ## Contribute
