@@ -166,6 +166,8 @@ Twitter bots that crunch numbers daily.
 
 Stuff that didn't really fit anywhere else.
 
+- [Awesome Ripple](https://github.com/vhpoet/awesome-ripple) [![awesome-ilp](https://awesome.re/badge.svg)](https://github.com/vhpoet/awesome-ripple) -
+  A related awesome list, that uses a legacy name.
 - [FUD Bingo](https://fudbingo.com) - A bingo card for XRP common misconceptions. Created by [Wietse][#wietse]
 - [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
   [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
