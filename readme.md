@@ -10,7 +10,7 @@ Use the outline navigation from the top left!
 
 [XRPL.org](https://xrpl.org) is a great resource for anyone wanting to learn more about the XRPL and how it works.
 
-Feel free to explore [there](https://xrpl.org/overview.html) [first](https://xrpl.org/introduction.html)!
+Feel free to [explore](https://xrpl.org/get-started.html) [there](https://xrpl.org/overview.html) [first](https://xrpl.org/introduction.html)!
 ([It's](https://xrpl.org/send-a-multi-signed-transaction.html) [really](https://xrpl.org/references.html) [good](https://xrpl.org/technical-faq.html) 😳)
 
 Come back here anytime you want to check out awesome 😎 projects on the XRPL. 
@@ -121,12 +121,21 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 - [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
-#### The Daemon
+## The Daemon
 - [**rippled**](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon. **let's rename this to `xrpld`** 😎
 - [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/) _Still publishes releases!_
 
+
+
+### Installing, Configuing and Running the Deamon
+- [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html)
+- [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html)
+- [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - This wizard 🪄✨ will walk you through configuring a node!
+  If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
+  package you up your validators, your config and even instructions in a zip you generate locally.
+
 #### Connecting To the Daemon
-- [XRPL.org WebSocket](https://xrpl.org/websocket-api-tool.html/)
+- [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
 - [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
 #### About the Daemon in a 🐳
