@@ -146,13 +146,18 @@ See [XRPL Developer Tools](#xrpl-developer-tools) for connecting to your node or
 
 ### `rippled` on the Raspberry Pi 4
 
-- [Running an XRPL Validator on a RPi4](https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4)
-  The RPi4 is ARM64 capable and can compile `rippled`. The [author](https://github.com/derkomai) has an
-  installation script available [here](https://github.com/derkomai/xrpldRaspberryPi) if you'd like to boot up an 
-  ARM 64 OS. The RPi4 @ 8GB meets the minimum requirements, it could meet the recommended requirements 
-  with a bump to it's RAM to 32GB since it also has 1Gbps networking. This methodology can apply to compiling `rippled`
-  on AWS Graviton EC2 Instances as well.
+The RPi4 is ARM64 capable and can compile `rippled`, if you'd like to boot up an
+[ARM 64-bit OS](https://ubuntu.com/download/raspberry-pi).
+The RPi4 @ 8GB meets the [minimum requirements](https://xrpl.org/system-requirements.html#minimum-specifications),
+it could meet the [recommended requirements](https://xrpl.org/system-requirements.html#recommended-specifications)
+with a bump to it's RAM to 32GB since it also has 1Gbps networking.
 
+
+- [Running an XRPL Validator on a RPi4](https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4)
+  The [author](https://github.com/derkomai) has an installation script available
+  [here](https://github.com/derkomai/xrpldRaspberryPi). This methodology can apply to compiling `rippled`
+  on AWS Graviton EC2 Instances as well.
+  
 # I Run a Node 🔧
 
 I run a node and want to be a good participant.
