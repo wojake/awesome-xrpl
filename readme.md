@@ -6,6 +6,17 @@
 
 Use the outline navigation from the top left!
 
+# ✨[XRPL.org](https://xrpl.org)🎉
+
+[XRPL.org](https://xrpl.org) is a great resource for anyone wanting to learn more about the XRPL and how it works.
+
+Feel free to explore [there](https://xrpl.org/overview.html) [first](https://xrpl.org/introduction.html)!
+(It's [really](https://xrpl.org/references.html) [good](https://xrpl.org/technical-faq.html) 😳)
+
+Come back here anytime you want to check out awesome 😎 projects on the XRPL. 
+
+Just remember, [xrpl.rocks](https://xrpl.rocks)! 🎉
+
 # Conventions
 
 The XRPL is a decentralized, immutable, censorship-resistant, distributed-ledger. It is also near instant, and the daemon itself is capable of websockets.
@@ -17,11 +28,6 @@ Here are some things to know:
 - 💫 = Shows live transactions
 - <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, Main, Test, Dev networks are supported.
 
-## ✨[XRPL.org](https://xrpl.org)🎉
-
-[XRPL.org](https://xrpl.org) is a great resource for anyone wanting to learn. 
-Feel free to explore there first! 
-Come back here anytime you want to check out awesome projects of what people have built on it 😎
 
 # XRPL Explorers
 
