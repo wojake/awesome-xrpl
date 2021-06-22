@@ -144,6 +144,15 @@ See [XRPL Developer Tools](#xrpl-developer-tools) for connecting to your node or
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/)
 
+### `rippled` on the Raspberry Pi 4
+
+- [Running an XRPL Validator on a RPi4](https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4)
+  The RPi4 is ARM64 capable and can compile `rippled`. The [author](https://github.com/derkomai) has an
+  installation script available [here](https://github.com/derkomai/xrpldRaspberryPi) if you'd like to boot up an 
+  ARM 64 OS. The RPi4 @ 8GB meets the minimum requirements, it could meet the recommended requirements 
+  with a bump to it's RAM to 32GB since it also has 1Gbps networking. This methodology can apply to compiling `rippled`
+  on AWS Graviton EC2 Instances as well.
+
 # I Run a Node
 
 I run a node and want to be a good participant.
