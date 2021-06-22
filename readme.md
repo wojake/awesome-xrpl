@@ -168,7 +168,6 @@ Libraries to connect & interact with the daemon and the network.
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
-- [dchapes/ripple](https://bitbucket.org/dchapes/ripple): Go 
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
 
 
