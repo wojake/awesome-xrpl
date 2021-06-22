@@ -110,21 +110,6 @@ Monitors inter-exchange XRP flows.
 
 - [ODL Patent via USPTO.report](https://uspto.report/patent/grant/10,902,416)
 
-
-# PayString
-
-Relating to [PayString][#paystring.org]
-
-# X-address
-
-A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. [_via_](https://xrpl.org/accounts.html#addresses)
-
-[**X-address Info**](https://xrpaddress.info) Everything you wanted to know about X-address format.
-
-- [xrpl-tagged-address-codec](https://github.com/xrp-community/xrpl-tagged-address-codec) - js package for encoding/decoding X-address format
-- [xrpl4j][#xrpl4j] - java library, supports X-address and classic formats
-- [xrpl-py][#xrpl-py] - python library, supports X-address and classic formats
-
 # The Daemon
 
 > a daemon (/ˈdiːmən/ or /ˈdeɪmən/) is a computer program that runs as a background process, rather than being under the direct control of an interactive user
@@ -162,11 +147,9 @@ _…maybe we rename it `xrpld` 😎_
 
 # XRPL Developer Tools
 
-- [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
+See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
-## Code
-
-### Libs
+## Libs
 
 Libraries to connect & interact with the daemon and the network.
 
@@ -174,32 +157,15 @@ Libraries to connect & interact with the daemon and the network.
 - [**xrpl-py**][#xrpl-py] - Python maintained by the [XRPLF][#xrplf]
 - [**ripple-lib**](https://github.com/ripple/ripple-lib/) - JavaScript / Typescript
 
-#### Lib Benchmarks / XRPL Vanity Generators
+### Lib Benchmarks / XRPL Vanity Generators
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
 - [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-lib](https://github.com/ripple/ripple-lib/)
 
-#### Libs/YMMV
 
-**Note**: "Your mileage may vary" – Alternative libraries to connect & interact with the daemon and the network.
-- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): _Deprecated_ - Lightweight JavaScript client with health detection and auto-reconnect
-- [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
-- [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
-- [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
-- [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
-- [RippleKit](https://github.com/xasos/RippleKit): Swift
-- [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
-
-
-### Connecting a Hardware Wallet
+### Lib Connecting a Hardware Wallet
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
   with [Ledger][#ledger.com] wallets.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
-
-
-### Apps
-- [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
-- [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
-- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
 
 
 #### Code/Other
@@ -212,6 +178,27 @@ Libraries to connect & interact with the daemon and the network.
 - [Ripple Gen](https://github.com/CodeShark/RippleGen/)
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 
+### Libs/YMMV
+
+**Note**: "Your mileage may vary" – Alternative libraries to connect & interact with the daemon and the network.
+- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): _Deprecated_ - Lightweight JavaScript client with health detection and auto-reconnect
+- [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
+- [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+- [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
+- [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
+- [RippleKit](https://github.com/xasos/RippleKit): Swift
+- [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
+
+
+# X-address
+
+A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. [_via_](https://xrpl.org/accounts.html#addresses)
+
+[**X-address Info**](https://xrpaddress.info) Everything you wanted to know about X-address format.
+
+- [xrpl-tagged-address-codec](https://github.com/xrp-community/xrpl-tagged-address-codec) - js package for encoding/decoding X-address format
+- [xrpl4j][#xrpl4j] - java library, supports X-address and classic formats
+- [xrpl-py][#xrpl-py] - python library, supports X-address and classic formats
 
 
 # Twitter Bots
@@ -223,6 +210,13 @@ Twitter bots that crunch numbers daily.
   Tracker Running an XRPL Validator.  ([UtilityScan.com](https://utility-scan.com))
 - [xrp1ntel](https://twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod)
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
+
+
+# Apps
+
+- [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
+- [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
 
 
 # Non-Custodial Wallets
@@ -243,6 +237,11 @@ Twitter bots that crunch numbers daily.
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
 - [**Trezor**](https://trezor.io) - Trezor wallet, supports XRP.
 - [**Paper Account Generator**](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side for generating a seed. By [Wietse][#wietse]
+
+
+# PayString
+
+Relating to [PayString][#paystring.org]
 
 # Interledger
 
