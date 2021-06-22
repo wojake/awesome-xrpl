@@ -278,7 +278,6 @@ Relating to [PayString][#paystring.org]. PayString is agnostic to implementation
 
 
 # Books / Docs / Videos
-- [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
 - [Build a VueJS WebApp connecting to the Ripple Ledger](https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c)
 
 
