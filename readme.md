@@ -35,8 +35,8 @@ Here are some things to know:
 - [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. 
   - src: [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) / [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
-  filtering. [Dossier of gateways](https://xrpintel.com/gateways) and their
-  issued tokens as KYG or "Know Your Gateway".
+  filtering.
+  - [Dossier of gateways](https://xrpintel.com/gateways) and their issued tokens as KYG or "Know Your Gateway".
 - [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
 - [XRPScan](https://xrpscan.com) 💫
 
