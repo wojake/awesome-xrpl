@@ -255,7 +255,7 @@ Twitter bots that crunch numbers daily.
 
 # Apps
 
-- [Block Trac](https://blocktr.ac)🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
+- [Block Trac](https://blocktr.ac) 💫 🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
   JSONPath expressions allow powerful filtering, example filters are provided, or you can use the create new 
   filter wizard. _Formerly known as ZerpTracker._
 - [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
