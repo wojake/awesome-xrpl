@@ -131,7 +131,7 @@ A format that "packs" a destination tag into the address. A classic address is a
 ### Installing, Configuing and Running the Deamon
 - [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html)
 - [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html)
-- [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - This wizard 🪄✨ will walk you through configuring a node!
+- [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - 🪄✨ This wizard will walk you through configuring a node!
   If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
   package you up your validators, your config and even instructions in a zip you generate locally.
 
