@@ -119,7 +119,7 @@ Monitors inter-exchange XRP flows.
 
 _This is the core of the XRPL_, it's a peer to peer network daemon.
 
-### [**rippled**](https://github.com/ripple/rippled/)
+### [`rippled`](https://github.com/ripple/rippled/)
 
 …maybe we rename it `xrpld` 😎
 
