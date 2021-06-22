@@ -146,15 +146,16 @@ A format that "packs" a destination tag into the address. A classic address is a
 ## Code
 
 ### Libs
+
 - [**xrpl4j**][#xrpl4j] - Java maintained by the [XRPLF][#xrplf]
 - [**xrpl-py**][#xrpl-py] - Python maintained by the [XRPLF][#xrplf]
-- [**ripple-lib**](https://github.com/ripple/ripple-lib/): Java Script
+- [**ripple-lib**](https://github.com/ripple/ripple-lib/) - JavaScript / Typescript
+
+⬇️ YMMV with these ⬇️
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight Javascript / nodejs client with health detection and auto-reconnect
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
-- [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
-- [ripple-python-lib](https://github.com/arsenlosenko/python-ripple-lib): Python implementation of JSON-RPC and Data API calls
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
