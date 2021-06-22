@@ -26,9 +26,10 @@ Most projects include an active view of current transactions occuring on the net
 
 Here are some things to know:
 
-- 💫 = Shows live transactions
 - <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, Main, Test, Dev networks are supported.
-- 🪄✨ = Wizard
+- 💫 = Live! Shows real-time transactions on the XRPL **right now**.
+- 🪄✨ = Wizard! A tool that provides a wizard so you don't need to be a wiz.
+- 🗣️ = Discussion! An active discussion
 
 
 # XRPL Explorers
@@ -293,6 +294,37 @@ Relating to [PayString][#paystring.org]. PayString is agnostic to implementation
 # Interledger
 
 - [**Awesome Interledger**](https://github.com/vhpoet/awesome-ilp) [![awesome-ilp](https://awesome.re/badge.svg)](https://github.com/vhpoet/awesome-ilp)
+
+
+# XRPL Cross Blockchain
+
+XRP is utilized to connect other block chains to the XRPL. 
+
+## Cross BlockChain / Sidechains
+- 🌟 [A Vision for Federated Sidechains on the XRPL](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o) 
+  🗣️ This dev.to discussion and proposal is around federated sidechains.
+  Federated `rippled` clusters allow for proving ideas out in production. 
+  Transmission can happen across sidechains to or through the XRPL to other sidechains using [X-addresses](#x-address); 
+  One could imagine standing up a private XRPL cluster in order to traverse through the mainnet. 
+  One could do pretty much anything thinking of the federator as the gateway to and from a hub of value, 
+  the XRPL would further enable the <abbr title="Internet of Value">IoV</abbr>.
+
+
+## Cross Blockchain / Parallel Networks
+
+These are networks that run in parallel to the XRPL.
+
+- [Wanchain](https://www.wanchain.org/) - Wanchain is a blockchain with a novel approach to node operation using SMPC
+  or [Secure Multi Party Computation](https://www.explorewanchain.org/#/../technology/smpc)
+- [Flare Networks](https://flare.xyz) - Flare networks is a blockchain that uses 
+  <abbr title="Flare Consensus Protocol">[FCP](https://flare.xyz/flare-consensus-protocol-an-explainer/)</abbr>
+  is due to launch Q2/Q3 2021.
+  XRP is collateralized according to the rate provided by the [FTSO](https://flare.xyz/ftso-a-breakdown/),
+  FXRP is one of several assets that will be integrated integrated with 
+  [state connectors](https://docs.flare.network/en/state-connector).
+  - 🔗 [FXRP Whitepaper](https://drive.google.com/file/d/1ftqaiUgU7-57KEFzYQ807h9pwUzsE84Y/view) 
+  - 🔗 [All Whitepapers](https://flare.xyz/whitepapers/)
+
 
 
 # Books / Docs / Videos
