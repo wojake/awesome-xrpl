@@ -215,7 +215,7 @@ XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
 
 - [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
   Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
-  Uses [`xrpl-py`](#xrpl-py)
+  Uses [`xrpl-py`][#xrpl-py]
 
 
 # Code/Other
