@@ -131,14 +131,13 @@ I want to run a node and be a participant in the XRPL.
 - [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - 🪄✨ This wizard will walk you through configuring a node!
   If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
   package you up your validators, your config and even instructions in a zip you generate locally.
+  
+See [XRPL Developer Tools](#xrpl-developer-tools) for connecting to your node or any other node, such as a public one like [XRPLcluster](https://xrplcluster.com).
 
 ### `rippled` in a 🐳 Container
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/)
 
-### Connecting to `rippled`
-- [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
-- [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
 
 # I Run a Node
@@ -153,10 +152,24 @@ Keep up with new releases and amendment proposals, without the noise.
   for any [node](https://xrpl.org/rippled-server-modes.html) operator. _Old-school_, but effective for widespread announcements!
 
 
+# I need a node to connect to
+
+- [XRPLCluster](https://xrplcluster.com) AKA [xrpl.ws](https://xrpl.ws) _which has a TLD that isn't as stable as .com_, is a public cluster provided by 
+the [XRPLF][#xrplf.org].
+
+    wss://xrplcluster.com
+
+  - [Stats page](https://xrpl.ws-stats.com)
+
+
 
 # XRPL Developer Tools
 
 See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
+
+## Connecting to `rippled`
+- [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
+- [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
 ## Libs
 
