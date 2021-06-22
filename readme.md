@@ -37,10 +37,11 @@ Here are some things to know:
 - [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com) A block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
 - [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. 
   - src: [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) / [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
-- [Block
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
-  filtering. [Public API](https://xrpintel.com/api)
+  filtering. [Public API](https://xrpintel.com/api) by (@DevNullProd)[https://twitter.com/devnullprod]
   - 🔗 [Dossier of gateways](https://xrpintel.com/gateways) and their issued tokens as KYG or "Know Your Gateway".
+  - [Bloc Trac](#app/bloctrac) offers the same JSONPath filtering to trigger alerts, 
+    by [@DevNullProd](https://twitter.com/devnullprod)
 - [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
 - [XRPScan](https://xrpscan.com) 💫 Block explorer with a [public API](https://docs.xrpscan.com/)
   - 🔗 [Validators](https://xrpscan.com/validators)
@@ -199,11 +200,21 @@ Libraries to connect & interact with the daemon and the network.
 
 ### Libs/YMMV
 
-**Note**: "Your mileage may vary" – Alternative libraries to connect & interact with the daemon and the network.
+**Note**: Your mileage may vary! If you find any of these to be production-ready, please consider moving it to top 
+section in lieu of some integration suite, like [Acid Tests](https://www.acidtests.org/) does for browsers and
+targeting web standards.
+
 - [xrpb](https://github.com/DevNullProd/XRBP) - Ruby library [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red](https://github.com/xrpinnovations/node-red-contrib-xrpl) - [Node-RED](https://nodered.org) Modules for XRPL
-- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): _Deprecated_ - Lightweight JavaScript 
-  client with health detection and auto-reconnect
+
+
+### Libs/Deprecated||Unverified
+
+**Note**: Unverified or deprecated libaries. If they're deprecated, an alternative is included
+
+- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)
+  _Deprecated_ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/) 
+  Lightweight JavaScript client with health detection and auto-reconnect
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
@@ -219,13 +230,18 @@ XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
   Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
   Uses [`xrpl-py`][#xrpl-py]
 
-# Code/App/Shell
+# Code/App
+Code repositories that are also applications in their own right.
+
+## Shell
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
 
-# Code/App/Desktop
+## Desktop
 - [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 
 # Code/Other
+
+Code repositories that didn't fit anywhere else
 
 - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
@@ -265,7 +281,8 @@ Twitter bots that crunch numbers daily.
 
 ## Software as a Service (SaaS)
 
-- [Block Trac](https://blocktr.ac) 💫 🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
+- [Block Trac](https://blocktr.ac) <a name="app/bloctrac"></a>
+  💫 🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
   JSONPath expressions allow powerful filtering, example filters are provided, or you can use the create new 
   filter wizard. _Formerly known as ZerpTracker._
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion) There's a 
