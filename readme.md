@@ -125,7 +125,8 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 ## The Daemon
 - [**rippled**](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon. **let's rename this to `xrpld`** 😎
-- [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/) _Still publishes releases!_
+- [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/) This email group announces releases. 
+  _Old-school_, but effective for widespread announcements!
 
 
 
