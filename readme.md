@@ -115,7 +115,7 @@ Monitors inter-exchange XRP flows.
 
 
 
-# I want to run a Node
+# I want to run a Node 🏗️
 
 I want to run a node and be a participant in the XRPL.
 
@@ -153,7 +153,7 @@ See [XRPL Developer Tools](#xrpl-developer-tools) for connecting to your node or
   with a bump to it's RAM to 32GB since it also has 1Gbps networking. This methodology can apply to compiling `rippled`
   on AWS Graviton EC2 Instances as well.
 
-# I Run a Node
+# I Run a Node 🔧
 
 I run a node and want to be a good participant.
 
@@ -168,7 +168,7 @@ Keep up with new releases and amendment proposals, without the noise.
 
 
 
-# I need a node to connect to
+# I need a node to connect to 🙇
 
 Don't want to setup a node, but want to query the ledger or propagate some signed transactions?
 
