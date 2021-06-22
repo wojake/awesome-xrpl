@@ -50,7 +50,7 @@ Here are some things to know:
 
 # XRPL Tokens
 
-- [XUMM.Community Token List](https://xumm.community/tokens) - 🪄✨ See all tokens
+- [XUMM.Community Token List](https://xumm.community/tokens) - 🪄✨ <kbd>M</kbd><kbd>T</kbd> See all tokens
   issued on the XRPL, as well as issue your own token using the wizard that
   steps you through the process.
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
@@ -311,7 +311,7 @@ Twitter bots that crunch numbers daily.
   filter wizard. _Formerly known as ZerpTracker._
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion) There's a 
   corresponding 📱 App that requires registration here.
-- [XUMM.community](https://xumm.community/) 🪄✨ 
+- [XUMM.community](https://xumm.community/) 🪄✨ <kbd>M</kbd><kbd>T</kbd>
   <a name="app/xumm-community"></a> - Xumm Community is a useful wizard/tool that compliments the 
   XUMM wallet
 
