@@ -64,7 +64,7 @@ Here are some things to know:
 
 # XRPL DEX
 
-Related to the built-in [XRPL DEX][#xrpldex]
+Related to the built-in [DEX][#xrpldex]
 
 
 ## DEX UI
