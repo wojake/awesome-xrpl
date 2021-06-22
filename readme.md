@@ -131,7 +131,8 @@ Want to skip ahead? Use the [developer tools](#xrpl-developer-tools) and a publi
   (Like just install a package or run a container easy.)
 - [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html) Next steps after you get it installed and running.
 - [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - 🪄✨ This wizard will walk you through configuring a node!
-  If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
+  If you want to go full custom. The [shipped, example configuration file](https://github.com/ripple/rippled/blob/7bd5d51e4e4e76a5547051d30b330739618eddb0/cfg/rippled-example.cfg)
+  is pretty verbose about each option, this wizard will
   package you up your validators, your config and even instructions in a zip you generate locally.
   
 See [XRPL Developer Tools](#xrpl-developer-tools) for connecting to your node or any other node, such as a public one like [XRPLcluster](https://xrplcluster.com).
