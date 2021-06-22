@@ -142,7 +142,9 @@ _This is the core of the XRPL_, it's a peer to peer network daemon.
 
 I run a node and want to be a good participant.
 
-## Broadcast Channels - Keep up with new releases and amendment proposals, without the noise.
+## Broadcast Channels
+
+Keep up with new releases and amendment proposals, without the noise.
 
 - [ripple-server mailing list](https://groups.google.com/forum/#!forum/ripple-server/) This email list announces releases, and other info 
   for any [node](https://xrpl.org/rippled-server-modes.html) operator. _Old-school_, but effective for widespread announcements!
