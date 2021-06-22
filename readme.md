@@ -110,39 +110,43 @@ Monitors inter-exchange XRP flows.
 
 - [ODL Patent via USPTO.report](https://uspto.report/patent/grant/10,902,416)
 
-# The Daemon
+
+# I want to run a Node
+
+## The Daemon
 
 > a daemon (/ˈdiːmən/ or /ˈdeɪmən/) is a computer program that runs as a background process, rather than being under the direct control of an interactive user
 
-**This is the core of the XRPL**
+_This is the core of the XRPL_, it's a peer to peer network daemon.
 
-## [**rippled**](https://github.com/ripple/rippled/) 
+### [**rippled**](https://github.com/ripple/rippled/)
 
-Ripple peer-to-peer network daemon.
+…maybe we rename it `xrpld` 😎
 
-_…maybe we rename it `xrpld` 😎_
-
-## Node Operator Communication Channels
-
-- [ripple-server mailing list](https://groups.google.com/forum/#!forum/ripple-server/) This email list announces releases, and other info 
-  for any [node](https://xrpl.org/rippled-server-modes.html) operator. _Old-school_, but effective for widespread announcements!
-
-## I want to run a Node
-
-### Installing, Configuing and Running the Daemon
+## Installing, Configuing and Running the Daemon
 - [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html) Install and get the core running, its easy! (Like just install a package easy.)
 - [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html) Next steps after you get it installed and running.
 - [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - 🪄✨ This wizard will walk you through configuring a node!
   If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
   package you up your validators, your config and even instructions in a zip you generate locally.
 
-#### Connecting To the Daemon
+### Connecting To the Daemon
 - [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
 - [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
-#### About the Daemon in a 🐳
+### The Daemon in a 🐳
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
+
+# I run a Node
+
+I run a node and want to be a good participant.
+
+## Broadcast Channels - Keep up with new releases and amendment proposals, without the noise.
+
+- [ripple-server mailing list](https://groups.google.com/forum/#!forum/ripple-server/) This email list announces releases, and other info 
+  for any [node](https://xrpl.org/rippled-server-modes.html) operator. _Old-school_, but effective for widespread announcements!
+
 
 
 # XRPL Developer Tools
