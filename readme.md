@@ -157,19 +157,17 @@ Libraries to connect & interact with the daemon and the network.
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
 - [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-lib](https://github.com/ripple/ripple-lib/)
 
-
 #### Libs/YMMV
 
-Alternative libraries to connect & interact with the daemon and the network.
-
+**Note**: "Your mileage may vary" – Alternative libraries to connect & interact with the daemon and the network.
+- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight JavaScript client with health detection and auto-reconnect _deprecated_
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
-- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight Javascript / nodejs client with health detection and auto-reconnect
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
-- [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
-- [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a rippled client.
+- [dchapes/ripple](https://bitbucket.org/dchapes/ripple): Go 
+- [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
 
 
 ### Connecting a Hardware Wallet
