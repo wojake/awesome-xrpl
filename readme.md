@@ -194,7 +194,7 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 Twitter bots that crunch numbers daily.
 
-- [Liquidity Index Bot](https://twitter.com/liquidityb) Posts the current snapshot of the Liquidity Index. The index was invented by [@tenitoshi](https://mobile.twitter.com/tenitoshi), and the bot is maintained by [@CinnappleFun](https://mobile.twitter.com/CinnappleFun)
+- [Liquidity Index Bot](https://twitter.com/liquidityb) Posts the current snapshot of the Liquidity Index. The index was invented by [@tenitoshi](https://mobile.twitter.com/tenitoshi), and the bot is maintained by CinnappleFun
 - [UtilityScan](https://twitter.com/UtilityScan) - XRP On Demand Liquidity
   Tracker Running an XRPL Validator.  ([UtilityScan.com](https://utility-scan.com))
 - [xrp1ntel](https://twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod)
