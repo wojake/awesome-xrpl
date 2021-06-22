@@ -132,13 +132,14 @@ I want to run a node and be a participant in the XRPL.
   If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
   package you up your validators, your config and even instructions in a zip you generate locally.
 
+### `rippled` in a 🐳 Container
+- [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
+- [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/)
+
 ### Connecting to `rippled`
 - [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
 - [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
-### `rippled` in a 🐳 Container
-- [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
-- [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
 # I Run a Node
 
