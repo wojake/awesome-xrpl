@@ -249,7 +249,8 @@ Twitter bots that crunch numbers daily.
 - [UtilityScan](https://twitter.com/UtilityScan) - XRP On Demand Liquidity
   Tracker Running an XRPL Validator.  ([UtilityScan.com](https://utility-scan.com))
 - [**xrp1ntel**](https://twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod) - 
-  tweets readable messages of rolling stats of the XRPL, that are interesting.
+  tweets interesting and easily-digestable messages of rolling stats of the XRPL. It's followers, tend to raise the more
+  interesting of them to top with retweets/likes.
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
 
