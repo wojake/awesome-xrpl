@@ -26,7 +26,7 @@ Most projects include an active view of current transactions occuring on the net
 
 Here are some things to know:
 
-- <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, Main, Test, Dev networks are supported.
+- <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, **M**ain, **T**est, **D**ev networks are supported.
 - 💫 = Live! Shows real-time transactions on the XRPL **right now**.
 - 🪄✨ = Wizard! A tool that provides a wizard so you don't need to be a wiz.
 - 🗣️ = Discussion! An active discussion
