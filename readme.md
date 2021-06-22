@@ -15,7 +15,7 @@ Feel free to [explore](https://xrpl.org/get-started.html) [there](https://xrpl.o
 
 Come back here anytime you want to check out awesome 😎 projects on the XRPL. 
 
-Just remember, [xrpl.rocks](https://xrpl.rocks)! 🎉
+Just remember, [**xrpl.rocks**](https://xrpl.rocks)! 🎉
 
 # Conventions
 
