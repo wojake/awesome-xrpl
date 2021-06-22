@@ -379,7 +379,8 @@ These are networks that run in parallel to the XRPL.
   <abbr title="Flare Consensus Protocol">[FCP](https://flare.xyz/flare-consensus-protocol-an-explainer/)</abbr>
   is due to launch Q2/Q3 2021.
   XRP is collateralized according to the rate provided by the [FTSO](https://flare.xyz/ftso-a-breakdown/),
-  FXRP is one of several assets that will be integrated integrated with 
+  [FXRP](https://drive.google.com/file/d/1ftqaiUgU7-57KEFzYQ807h9pwUzsE84Y/view?usp=sharing)
+  is one of several assets that will be integrated with 
   [state connectors](https://docs.flare.network/en/state-connector).
   - 🔗 [FXRP Whitepaper](https://drive.google.com/file/d/1ftqaiUgU7-57KEFzYQ807h9pwUzsE84Y/view) 
   - 🔗 [All Whitepapers](https://flare.xyz/whitepapers/)
