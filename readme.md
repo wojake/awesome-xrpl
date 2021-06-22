@@ -198,6 +198,7 @@ Libraries to connect & interact with the daemon and the network.
 ### Libs/YMMV
 
 **Note**: "Your mileage may vary" – Alternative libraries to connect & interact with the daemon and the network.
+- [xrpb](https://github.com/DevNullProd/XRBP) - Ruby library [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): _Deprecated_ - Lightweight JavaScript client with health detection and auto-reconnect
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
