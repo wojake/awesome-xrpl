@@ -270,7 +270,7 @@ Twitter bots that crunch numbers daily.
 
 # PayString
 
-Relating to [PayString][#paystring.org]
+Relating to [PayString][#paystring.org]. PayString is agnostic to implementation and is an easy protocol to adopt for dynamic and authorized wallet responses.
 
 # Interledger
 
