@@ -159,7 +159,7 @@ Keep up with new releases and amendment proposals, without the noise.
 
 Don't want to setup a node, but want to query the ledger or propagate some signed transactions?
 
-[XRPLCluster](https://xrplcluster.com) AKA [xrpl.ws](https://xrpl.ws) _which has a TLD that isn't as stable as .com_, is a public cluster provided by 
+[XRPLCluster](https://xrplcluster.com) aka [xrpl.ws](https://xrpl.ws) _which has a TLD that isn't as stable as .com_, is a public cluster provided by 
 the [XRPLF][#xrplf.org]. [Stats page](https://xrpl.ws-stats.com)
 
 ```
