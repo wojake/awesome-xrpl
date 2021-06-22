@@ -265,7 +265,7 @@ Twitter bots that crunch numbers daily.
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
 - [**Trezor**](https://trezor.io) - Trezor wallet, supports XRP.
-- [**Paper Account Generator**](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side for generating a seed. By [Wietse][#wietse]
+- [**Paper Account Generator**](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side. By [Wietse][#wietse]
 
 
 # PayString
