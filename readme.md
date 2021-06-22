@@ -254,7 +254,7 @@ Twitter bots that crunch numbers daily.
 
 - [Block Trac](https://blocktr.ac)🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
   JSONPath expressions allow powerful filtering, example filters are provided, or you can use the create new 
-  filter wizard.
+  filter wizard. _Formerly known as ZerpTracker._
 - [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
