@@ -90,14 +90,21 @@ Tools to visualize trades on the DEX.
   XRPL.org Explorer's Network Validators.
 
 # ODL
+[**O**n **D**emand **L**iquidity is a product offered through RippleNet.](https://ripple.com/ripplenet/on-demand-liquidity/).
+RippleNet's ODL customers may use XRP on the XRPL to bridge currencies in one use case.
+
+## ODL Explorer
+
+- [XRPL ODL Rosetta](https://threexrp.dev) 💫 [🌐](https://threexrp.dev/app.html) monitors movements of XRP between exchanges by listening to the XRPL, 
+  it then classifies and buckets the exchange. Exploration of different exchanges are available, currently under active development by [@ShortTheFomo](https://twitter.com/ShortTheFOMO)
 
 ## ODL Monitoring
 
-Monitors inter-exchange XRP flows. [ODL is a product offered through RippleNet.](https://ripple.com/ripplenet/on-demand-liquidity/)
+Monitors inter-exchange XRP flows.
 
 - [Utility Scan](https://utility-scan.com) - Monitors the ODL corridors and
   their trades for producing ODL analytics. Has a public API.
-- [XRPL ODL Rosetta](https://threexrp.dev) 💫 [🌐](https://threexrp.dev/app.html) XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
+
 
 ## ODL Miscelaneous
 
