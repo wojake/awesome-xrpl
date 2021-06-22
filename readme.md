@@ -272,7 +272,8 @@ Code repositories that didn't fit anywhere else
 
 - [XRPL-monitor-ESP32](https://github.com/derkomai/XRPL-monitor-ESP32) - Using an ESP32 (an arduino with wifi),
   and circuit python to communicate with the XRPL.
-- See also [node-red-contrib-xrpl](#code/node-red-contrib-xrpl).
+
+See also [node-red-contrib-xrpl](#code/node-red-contrib-xrpl).
 
 
 # X-address
