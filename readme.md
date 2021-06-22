@@ -16,9 +16,7 @@ Use the outline navigation from the top left!
 Feel free to [explore](https://xrpl.org/get-started.html) [there](https://xrpl.org/overview.html) [first](https://xrpl.org/introduction.html)!
 ([It's](https://xrpl.org/send-a-multi-signed-transaction.html) [really](https://xrpl.org/references.html) [good](https://xrpl.org/technical-faq.html) 😳)
 
-Come back here 👇 anytime you want 😎 
-
-[**xrpl.rocks**](https://xrpl.rocks)! 🎉
+To come back here anytime you want – just remember the [**xrpl.rocks**](https://xrpl.rocks)! 🎉
 
 # Conventions
 
