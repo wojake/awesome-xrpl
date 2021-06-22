@@ -28,7 +28,7 @@ Here are some things to know:
 
 - <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment.
   <kbd>M</kbd>ain, <kbd>T</kbd>est, <kbd>D</kbd>ev networks are supported.
-- 💫 = Live! Shows real-time transactions on the XRPL **right now**.
+- 💫 = Live! Shows real-time transactions on the XRPL _right now_.
 - 🪄✨ = Wizard! A tool that provides a wizard so you don't need to be a wiz.
 - 🗣️ = Discussion! An active discussion
 
