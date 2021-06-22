@@ -170,7 +170,6 @@ wss://xrplcluster.com
 
 
 
-
 # XRPL Developer Tools
 
 See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
@@ -197,6 +196,12 @@ Libraries to connect & interact with the daemon and the network.
   with [Ledger][#ledger.com] wallets.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
 
+## DEX Dev Tools
+
+XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
+
+- [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
+  Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon.
 
 #### Code/Other
 - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
