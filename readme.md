@@ -174,7 +174,6 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 
 ### Apps
-- [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
 - [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
