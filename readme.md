@@ -2,25 +2,11 @@
 
 > A curated list of XRPL related projects and resources.
 
+# Contents
 
-## Contents
+Use the outline navigation from the top left!
 
-- [XRPL Explorers](#xrpl-explorers)
-- [XRPL Tokens](#xrpl-tokens)
-- [XRPL DEX](#xrpl-dex)
-  - [DEX UI](#dex-ui)
-  - [DEX Visualizer](#dex-visualizer)
-- [XRPL Validators](#xrpl-validators)
-- [ODL Monitoring](#odl-monitoring)
-- [PayString](#paystring)
-- [X-address](#x-address)
-- [XRPL Developer Tools](#xrpl-developer-tools)
-- [Twitter Bots](#twitter-bots)
-- [Non-Custodial Wallets](#non-custodial-wallets)
-- [Interledger](#interledger)
-- [Misc](#misc)
-
-## Conventions
+# Conventions
 
 The XRPL is a decentralized, immutable, censorship-resistant, distributed-ledger. It is also near instant, and the daemon itself is capable of websockets.
 
@@ -32,7 +18,7 @@ Here are some things to know:
 - <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, Main, Test, Dev networks are supported.
 
 
-### XRPL Explorers
+## XRPL Explorers
 
 - [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com) A block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
 - [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. By [Wietse][#wietse]
@@ -42,7 +28,7 @@ Here are some things to know:
 - [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
 - [XRPScan](https://xrpscan.com) 💫
 
-### XRPL Tokens
+## XRPL Tokens
 
 - [XUMM.Community Token List](https://xumm.community/tokens) - See all tokens
   issued on the XRPL, as well as issue your own token using the wizard that
@@ -50,7 +36,7 @@ Here are some things to know:
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
   token list.
 
-#### Casino Coin (CSC)
+### Casino Coin (CSC)
 
 - [CasinoCoin.info](https://casinocoin.info/) - Everything you wanted to know
   about CSC. Has quickly grown to a great source for analyzing liquidity
@@ -59,25 +45,25 @@ Here are some things to know:
   DEX orders relating to CSC.
 
 
-### XRPL DEX
+## XRPL DEX
 
 Related to the built-in [XRPL DEX][#xrpldex]
 
 
-#### DEX UI
+### DEX UI
 
 User Interfaces to the DEX.
 
 - [Sologenic DEX](https://sologenic.org) The Decentralized Exchange UI from Sologenic
 - [XRP Tookit](https://www.xrptoolkit.com) This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
 
-#### DEX Visualizer
+### DEX Visualizer
 
 Tools to visualize trades on the DEX.
 
 [Velocity of Value](https://dex.xrplapps.com/) - The DEX tool of the XRPLApps Suite
 
-### XRPL Validators
+## XRPL Validators
 
 - [XRPL Apps Validator Stats & Ranking](https://stats.xrplapps.com/) - The
   validator stats of the XRPLApps Suite.
@@ -87,7 +73,7 @@ Tools to visualize trades on the DEX.
   XRPL.org Explorer's Network Validators.
 
 
-#### ODL Monitoring
+### ODL Monitoring
 
 Monitors inter-exchange XRP flows. [ODL is a product offered through RippleNet.](https://ripple.com/ripplenet/on-demand-liquidity/)
 
@@ -95,16 +81,16 @@ Monitors inter-exchange XRP flows. [ODL is a product offered through RippleNet.]
   their trades for producing ODL analytics. Has a public API.
 - [XRPL ODL Rosetta](https://threexrp.dev) 💫 [🌐](https://threexrp.dev/app.html) XRPL ROSETTA monitors movements of XRP between exchanges by listening to the XRPL, it then classifies and buckets the exchange. Naturally ODL traffic will float to the top the longer the tool runs. However active ODL corridors tend to show up pretty fast, simply look for a destination tag with a large count.
 
-### ODL Miscelaneous
+## ODL Miscelaneous
 
 - [ODL Patent via USPTO.report](https://uspto.report/patent/grant/10,902,416)
 
 
-### PayString
+## PayString
 
 Relating to [PayString][#paystring.org]
 
-### X-address
+## X-address
 
 A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. _[via](https://xrpl.org/accounts.html#addresses)_
 
@@ -115,19 +101,70 @@ A format that "packs" a destination tag into the address. A classic address is a
 - [xrpl-py][#xrpl-py] - python library, supports X-address and classic formats
 
 
-### XRPL Developer Tools
+## XRPL Developer Tools
 
 - 🌟 [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html) - Developer tools for working with the XRPL Ledger
 
+##### The Daemon
+- [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
+- [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/) _Still publishes releases!_
+
+##### Connecting To the Daemon
+- [XRPL.org WebSocket](https://xrpl.org/websocket-api-tool.html/)
+- [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
+
+##### About the Daemon in a 🐳
+- [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
+- [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
+
+### Code
+
+#### Libs
+- [**xrpl4j**][#xrpl4j] - java library, supports X-address and classic formats
+- [**xrpl-py**][#xrpl-py] - python library, supports X-address and classic formats
+- [**ripple-lib**](https://github.com/ripple/ripple-lib/): Java Script
+- [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
+- [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight Javascript / nodejs client with health detection and auto-reconnect
+- [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
+- [ripple-python](https://github.com/miracle2k/ripple-python/): Python Lib
+- [ripple-python-lib](https://github.com/arsenlosenko/python-ripple-lib): Python implementation of JSON-RPC and Data API calls
+- [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
+- [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
+- [RippleKit](https://github.com/xasos/RippleKit): Swift
+- [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a rippled client.
+
+##### Lib Benchmarks / XRPL Vanity Generators
+- [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
+- [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-lib](https://github.com/ripple/ripple-lib/)
+
 
 #### Connecting a Hardware Wallet
-
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
   with [Ledger][#ledger.com] wallets.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
 
 
-### Twitter Bots
+#### Apps
+- [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
+- [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
+- [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
+
+
+##### Code/Other
+- [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+- [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
+- [ripple-data-api](https://github.com/ripple/ripple-data-api) **DEPRECATED**
+- [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset **No Maintainer**
+- [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
+- [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
+- [Ripple Gen](https://github.com/CodeShark/RippleGen/)
+- [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
+
+
+
+## Twitter Bots
 
 Twitter bots that crunch numbers daily.
 
@@ -138,9 +175,9 @@ Twitter bots that crunch numbers daily.
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
 
-### Non-Custodial Wallets
+## Non-Custodial Wallets
 
-- 🌟 [XUMM][#xumm.app] - _Pronounced "sum"_ - XUMM is a self-custodial wallet for
+- 🌟[**XUMM**][#xumm.app] 📱 _Pronounced "sum"_ - XUMM is a self-custodial wallet for
   Android & iOS, built by [XRPL-Labs][#xrpl-labs]. XUMM can hold many accounts,
   and is easy to setup. It strives to deliver the best XRPL experience. It has
   several features not found in any other wallet, including Tangram integration
@@ -151,34 +188,38 @@ Twitter bots that crunch numbers daily.
   user's XUMM Wallet. For power users, XUMM will offer a Pro subscription
   service that will enable additional functionality, like push notifications on
   all your wallet's activity.
-- [Ledger][#ledger.com] Ledger is a hardware wallet manufacturer. Their
+- [**Ledger**][#ledger.com] Ledger is a hardware wallet manufacturer. Their
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
-- [Trezor](https://trezor.io) - Trezor wallet, supports XRP.
-- [Paper Account Generator](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side for generating a seed. By [Wietse][#wietse]
+- [**Trezor**](https://trezor.io) - Trezor wallet, supports XRP.
+- [**Paper Account Generator**](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side for generating a seed. By [Wietse][#wietse]
 
-### Interledger
+## Interledger
 
 - [**Awesome Interledger**](https://github.com/vhpoet/awesome-ilp) [![awesome-ilp](https://awesome.re/badge.svg)](https://github.com/vhpoet/awesome-ilp)
 
 
-### Misc
+## Books / Docs / Videos
+- [Steven Zeiler's Ripple coding lessons](https://www.youtube.com/user/stevenzeiler/videos?flow=grid&view=0)
+- [Build a VueJS WebApp connecting to the Ripple Ledger](https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c)
+
+
+
+## Misc
 
 Stuff that didn't really fit anywhere else.
 
 - [Awesome Ripple](https://github.com/vhpoet/awesome-ripple) [![awesome-ilp](https://awesome.re/badge.svg)](https://github.com/vhpoet/awesome-ripple) -
-  A related awesome list, that uses a legacy name.
+  A related awesome list, that uses a legacy name. A lot of items were taken from [`README.md@3d85e95`](https://github.com/vhpoet/awesome-ripple/blob/3d85e95f1614af6a4dca89a03e1f8156670a97ef/README.md)
 - [FUD Bingo](https://fudbingo.com) - A bingo card for XRP common misconceptions. Created by [Wietse][#wietse]
 - [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
   [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
   including it's remaining balance and chart of it's staggered release.
 
 
-
-## Contribute
+# Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 
 
