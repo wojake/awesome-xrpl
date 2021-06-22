@@ -36,9 +36,12 @@ Here are some things to know:
   - src: [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) / [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
   filtering.
-  - [Dossier of gateways](https://xrpintel.com/gateways) and their issued tokens as KYG or "Know Your Gateway".
+  - 🔗 [Dossier of gateways](https://xrpintel.com/gateways) and their issued tokens as KYG or "Know Your Gateway".
 - [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
-- [XRPScan](https://xrpscan.com) 💫
+- [XRPScan](https://xrpscan.com) 💫 Block explorer with a [public API](https://docs.xrpscan.com/)
+  - 🔗 [Validators](https://xrpscan.com/validators)
+  - 🔗 [Amendments](https://xrpscan.com/amendments)
+  - 🔗 [Metrics](https://xrpscan.com/metrics)
 
 # XRPL Tokens
 
