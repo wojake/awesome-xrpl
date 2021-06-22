@@ -116,6 +116,8 @@ Monitors inter-exchange XRP flows.
 
 I want to run a node and be a participant in the XRPL.
 
+Want to skip ahead? Use the [developer tools](#xrpl-developer-tools) and a public node.
+
 ## The Daemon – `rippled`
 
 > a daemon (/ˈdiːmən/ or /ˈdeɪmən/) is a computer program that runs as a background process, rather than being under the direct control of an interactive user
@@ -138,11 +140,11 @@ See [XRPL Developer Tools](#xrpl-developer-tools) for connecting to your node or
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/)
 
-
-
 # I Run a Node
 
 I run a node and want to be a good participant.
+
+If it's public, consider adding it to the [public node list below](#i-need-a-node-to-connect-to).
 
 ## Broadcast Channels
 
@@ -152,14 +154,19 @@ Keep up with new releases and amendment proposals, without the noise.
   for any [node](https://xrpl.org/rippled-server-modes.html) operator. _Old-school_, but effective for widespread announcements!
 
 
+
 # I need a node to connect to
 
-- [XRPLCluster](https://xrplcluster.com) AKA [xrpl.ws](https://xrpl.ws) _which has a TLD that isn't as stable as .com_, is a public cluster provided by 
-the [XRPLF][#xrplf.org].
+Don't want to setup a node, but want to query the ledger or propagate some signed transactions?
 
-    wss://xrplcluster.com
+[XRPLCluster](https://xrplcluster.com) AKA [xrpl.ws](https://xrpl.ws) _which has a TLD that isn't as stable as .com_, is a public cluster provided by 
+the [XRPLF][#xrplf.org]. [Stats page](https://xrpl.ws-stats.com)
 
-  - [Stats page](https://xrpl.ws-stats.com)
+```
+wss://xrplcluster.com
+```
+
+
 
 
 
