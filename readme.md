@@ -119,7 +119,7 @@ Monitors inter-exchange XRP flows.
 
 I want to run a node and be a participant in the XRPL.
 
-Want to skip ahead? Use the [developer tools](#xrpl-developer-tools) and a public node.
+Want to skip ahead? Use the [developer tools](#xrpl-developer-tools) and a [public node](#i-need-a-node-to-connect-to-).
 
 ## The Daemon – `rippled`
 
