@@ -147,6 +147,8 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 ### Libs
 
+Libraries to connect & interact with the daemon and the network.
+
 - [**xrpl4j**][#xrpl4j] - Java maintained by the [XRPLF][#xrplf]
 - [**xrpl-py**][#xrpl-py] - Python maintained by the [XRPLF][#xrplf]
 - [**ripple-lib**](https://github.com/ripple/ripple-lib/) - JavaScript / Typescript
@@ -155,7 +157,11 @@ A format that "packs" a destination tag into the address. A classic address is a
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
 - [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-lib](https://github.com/ripple/ripple-lib/)
 
-⬇️ YMMV with these ⬇️
+
+#### Libs/YMMV
+
+Alternative libraries to connect & interact with the daemon and the network.
+
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client): Lightweight Javascript / nodejs client with health detection and auto-reconnect
