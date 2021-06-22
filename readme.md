@@ -37,6 +37,7 @@ Here are some things to know:
 - [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com) A block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
 - [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. 
   - src: [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) / [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
+- [Block
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
   filtering. [Public API](https://xrpintel.com/api)
   - 🔗 [Dossier of gateways](https://xrpintel.com/gateways) and their issued tokens as KYG or "Know Your Gateway".
@@ -218,6 +219,11 @@ XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
   Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
   Uses [`xrpl-py`][#xrpl-py]
 
+# Code/App/Shell
+- [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+
+# Code/App/Desktop
+- [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 
 # Code/Other
 
@@ -257,14 +263,19 @@ Twitter bots that crunch numbers daily.
 
 # Apps
 
+## Software as a Service (SaaS)
+
 - [Block Trac](https://blocktr.ac) 💫 🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
   JSONPath expressions allow powerful filtering, example filters are provided, or you can use the create new 
   filter wizard. _Formerly known as ZerpTracker._
-- [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
-- [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion) There's a 
+  corresponding 📱 App that requires registration here.
+
+## Mobile
 - [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by  
   leveraging the XRPL and [issued currencies](https://xrpl.org/issued-currencies-overview.html).
-- [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
+
+
 
 
 # Non-Custodial Wallets
