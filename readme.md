@@ -33,7 +33,7 @@ Here are some things to know:
 
 - [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com) A block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
 - [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. 
-  (Source [Frontend](https://github.com/WietseWind/XRP-Stats-Frontend) / [Backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB))
+  - src: [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) / [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB))
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
   filtering. [Dossier of gateways](https://xrpintel.com/gateways) and their
   issued tokens as KYG or "Know Your Gateway".
