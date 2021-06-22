@@ -111,19 +111,20 @@ Monitors inter-exchange XRP flows.
 - [ODL Patent via USPTO.report](https://uspto.report/patent/grant/10,902,416)
 
 
+
 # I want to run a Node
 
-## The Daemon
+I want to run a node and be a participant in the XRPL.
+
+## The Daemon – `rippled`
 
 > a daemon (/ˈdiːmən/ or /ˈdeɪmən/) is a computer program that runs as a background process, rather than being under the direct control of an interactive user
 
-_This is the core of the XRPL_, it's a peer to peer network daemon.
+[`rippled`](https://github.com/ripple/rippled/) _This is the core of the XRPL_, it's a peer to peer network daemon.
 
-### [`rippled`](https://github.com/ripple/rippled/)
+###### …maybe we rename it `xrpld` 😎
 
-…maybe we rename it `xrpld` 😎
-
-## Installing, Configuing and Running the Daemon
+## Installing, Configuring and Running `rippled`
 - [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html) Install and get the core running, its easy! 
   (Like just install a package or run a container easy.)
 - [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html) Next steps after you get it installed and running.
@@ -131,15 +132,15 @@ _This is the core of the XRPL_, it's a peer to peer network daemon.
   If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
   package you up your validators, your config and even instructions in a zip you generate locally.
 
-### Connecting To the Daemon
+### Connecting to `rippled`
 - [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
 - [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
-### The Daemon in a 🐳 container
+### `rippled` in a 🐳 Container
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
-# I run a Node
+# I Run a Node
 
 I run a node and want to be a good participant.
 
