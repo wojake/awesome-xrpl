@@ -257,6 +257,8 @@ Twitter bots that crunch numbers daily.
   filter wizard. _Formerly known as ZerpTracker._
 - [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 - [rubblelabs/tx](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [Spend The Bits](https://spendthebits.com/) 📱 App that let's you send Bitcoin faster by leveraging the XRPL and 
+  [issued currencies](https://xrpl.org/issued-currencies-overview.html).
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
 
 
