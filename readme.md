@@ -145,8 +145,8 @@ _…maybe we rename it `xrpld` 😎_
 ## I want to run a Node
 
 ### Installing, Configuing and Running the Daemon
-- [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html)
-- [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html)
+- [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html) Install and get the core running, its easy! (Like just install a package easy.)
+- [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html) Next steps after you get it installed and running.
 - [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - 🪄✨ This wizard will walk you through configuring a node!
   If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
   package you up your validators, your config and even instructions in a zip you generate locally.
