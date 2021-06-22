@@ -11,7 +11,7 @@ Use the outline navigation from the top left!
 [XRPL.org](https://xrpl.org) is a great resource for anyone wanting to learn more about the XRPL and how it works.
 
 Feel free to explore [there](https://xrpl.org/overview.html) [first](https://xrpl.org/introduction.html)!
-(It's [really](https://xrpl.org/references.html) [good](https://xrpl.org/technical-faq.html) 😳)
+([It's](https://xrpl.org/send-a-multi-signed-transaction.html) [really](https://xrpl.org/references.html) [good](https://xrpl.org/technical-faq.html) 😳)
 
 Come back here anytime you want to check out awesome 😎 projects on the XRPL. 
 
