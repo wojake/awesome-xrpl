@@ -125,19 +125,22 @@ A format that "packs" a destination tag into the address. A classic address is a
 - [xrpl4j][#xrpl4j] - java library, supports X-address and classic formats
 - [xrpl-py][#xrpl-py] - python library, supports X-address and classic formats
 
+# The Daemon
 
-# XRPL Developer Tools
+> a daemon (/ˈdiːmən/ or /ˈdeɪmən/) is a computer program that runs as a background process, rather than being under the direct control of an interactive user
 
-- [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
+**This is the core of the XRPL**, `rippled` _so let's rename this to `xrpld`_ 😎
 
-## The Daemon
-- [**rippled**](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon. **let's rename this to `xrpld`** 😎
-- [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/) This email group announces releases, and other info 
+[**rippled**](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon.
+
+## Node Operator Communication Channels
+
+- [ripple-server mailing list](https://groups.google.com/forum/#!forum/ripple-server/) This email list announces releases, and other info 
   for any [node](https://xrpl.org/rippled-server-modes.html) operator. _Old-school_, but effective for widespread announcements!
 
+## I want to run a Node
 
-
-### Installing, Configuing and Running the Deamon
+### Installing, Configuing and Running the Daemon
 - [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html)
 - [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html)
 - [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - 🪄✨ This wizard will walk you through configuring a node!
@@ -151,6 +154,11 @@ A format that "packs" a destination tag into the address. A classic address is a
 #### About the Daemon in a 🐳
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
+
+
+# XRPL Developer Tools
+
+- [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
 ## Code
 
