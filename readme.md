@@ -219,7 +219,8 @@ section in lieu of some integration suite, like [Acid Tests](https://www.acidtes
 targeting web standards.
 
 - [xrpb](https://github.com/DevNullProd/XRBP) - Ruby library [rubydoc](https://www.rubydoc.info/gems/xrbp)
-- [node-red](https://github.com/xrpinnovations/node-red-contrib-xrpl) - [Node-RED](https://nodered.org) Modules for XRPL
+- [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
+  <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
 
 
 ### Libs/Deprecated||Unverified
@@ -244,6 +245,7 @@ XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
   Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
   Uses [`xrpl-py`][#xrpl-py]
 
+
 # Code/App
 Code repositories that are also applications in their own right.
 
@@ -265,6 +267,12 @@ Code repositories that didn't fit anywhere else
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
 - [Ripple Gen](https://github.com/CodeShark/RippleGen/)
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
+
+## Code/IoT
+
+- [XRPL-monitor-ESP32](https://github.com/derkomai/XRPL-monitor-ESP32) - Using an ESP32 (an arduino with wifi),
+  and circuit python to communicate with the XRPL.
+- See also [node-red-contrib-xrpl](#code/node-red-contrib-xrpl).
 
 
 # X-address
