@@ -190,28 +190,10 @@ Libraries to connect & interact with the daemon and the network.
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
 - [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-lib](https://github.com/ripple/ripple-lib/)
 
-
 ### Lib Connecting a Hardware Wallet
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
   with [Ledger][#ledger.com] wallets.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
-
-## DEX Dev Tools
-
-XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
-
-- [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
-  Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon.
-
-#### Code/Other
-- [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
-- [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
-- [ripple-data-api](https://github.com/ripple/ripple-data-api) _Deprecated_
-- [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset **No Maintainer**
-- [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
-- [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
-- [Ripple Gen](https://github.com/CodeShark/RippleGen/)
-- [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 
 ### Libs/YMMV
 
@@ -223,6 +205,25 @@ XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
+
+## DEX Dev Tools
+
+XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
+
+- [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
+  Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon.
+
+
+# Code/Other
+
+- [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+- [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
+- [ripple-data-api](https://github.com/ripple/ripple-data-api) _Deprecated_
+- [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset **No Maintainer**
+- [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
+- [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
+- [Ripple Gen](https://github.com/CodeShark/RippleGen/)
+- [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 
 
 # X-address
