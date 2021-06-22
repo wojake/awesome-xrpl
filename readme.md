@@ -129,9 +129,13 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 > a daemon (/ˈdiːmən/ or /ˈdeɪmən/) is a computer program that runs as a background process, rather than being under the direct control of an interactive user
 
-**This is the core of the XRPL**, `rippled` _so let's rename this to `xrpld`_ 😎
+**This is the core of the XRPL**
 
-[**rippled**](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon.
+## [**rippled**](https://github.com/ripple/rippled/) 
+
+Ripple peer-to-peer network daemon.
+
+_…maybe we rename it `xrpld` 😎_
 
 ## Node Operator Communication Channels
 
