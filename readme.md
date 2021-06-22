@@ -18,7 +18,9 @@ Feel free to [explore](https://xrpl.org/get-started.html) [there](https://xrpl.o
 
 Come back here anytime you want to check out awesome 😎 projects. 
 
-👉 [**xrpl.rocks**](https://xrpl.rocks)! 🎉
+👇
+
+[**xrpl.rocks**](https://xrpl.rocks)! 🎉
 
 # Conventions
 
