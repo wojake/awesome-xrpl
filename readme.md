@@ -124,7 +124,8 @@ _This is the core of the XRPL_, it's a peer to peer network daemon.
 …maybe we rename it `xrpld` 😎
 
 ## Installing, Configuing and Running the Daemon
-- [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html) Install and get the core running, its easy! (Like just install a package easy.)
+- [XRPL.org Installing `rippled`](https://xrpl.org/install-rippled.html) Install and get the core running, its easy! 
+  (Like just install a package or run a container easy.)
 - [XRPL.org Configuing `rippled`](https://xrpl.org/configure-rippled.html) Next steps after you get it installed and running.
 - [Node Configurator](https://xrplf.github.io/xrpl-node-configurator/) - 🪄✨ This wizard will walk you through configuring a node!
   If you want to go full custom. The default configuration file is pretty verbose about each option, this walkthrough runs and will
@@ -134,7 +135,7 @@ _This is the core of the XRPL_, it's a peer to peer network daemon.
 - [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
 - [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
-### The Daemon in a 🐳
+### The Daemon in a 🐳 container
 - [rippled Docker container (node)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
 - [rippled Docker container (validator)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
 
