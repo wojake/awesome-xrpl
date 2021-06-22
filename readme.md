@@ -28,6 +28,7 @@ Here are some things to know:
 
 - 💫 = Shows live transactions
 - <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, Main, Test, Dev networks are supported.
+- 🪄✨ = Wizard
 
 
 # XRPL Explorers
@@ -46,7 +47,7 @@ Here are some things to know:
 
 # XRPL Tokens
 
-- [XUMM.Community Token List](https://xumm.community/tokens) - See all tokens
+- [XUMM.Community Token List](https://xumm.community/tokens) - 🪄✨ See all tokens
   issued on the XRPL, as well as issue your own token using the wizard that
   steps you through the process.
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
