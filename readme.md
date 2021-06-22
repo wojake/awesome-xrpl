@@ -6,7 +6,7 @@
 
 Use the outline navigation from the top left!
 
-# ✨[XRPL.org](https://xrpl.org)🎉
+# ✨ [XRPL.org](https://xrpl.org) ✨
 
 [XRPL.org](https://xrpl.org) is a great resource for anyone wanting to learn more about the XRPL and how it works.
 
