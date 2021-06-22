@@ -17,6 +17,11 @@ Here are some things to know:
 - 💫 = Shows live transactions
 - <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd> = Multi-environment, Main, Test, Dev networks are supported.
 
+## ✨[XRPL.org](https://xrpl.org)🎉
+
+[XRPL.org](https://xrpl.org) is a great resource for anyone wanting to learn. 
+Feel free to explore there first! 
+Come back here anytime you want to check out awesome projects of what people have built on it 😎
 
 # XRPL Explorers
 
@@ -93,7 +98,7 @@ Relating to [PayString][#paystring.org]
 
 # X-address
 
-A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. _[via](https://xrpl.org/accounts.html#addresses)_
+A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. [_via_](https://xrpl.org/accounts.html#addresses)
 
 [**X-address Info**](https://xrpaddress.info) Everything you wanted to know about X-address format.
 
@@ -104,10 +109,10 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 # XRPL Developer Tools
 
-- 🌟 [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html) - Developer tools for working with the XRPL Ledger
+- [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
 #### The Daemon
-- [rippled](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
+- [**rippled**](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon. **let's rename this to `xrpld`** 😎
 - [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/) _Still publishes releases!_
 
 #### Connecting To the Daemon
@@ -121,8 +126,8 @@ A format that "packs" a destination tag into the address. A classic address is a
 ## Code
 
 ### Libs
-- [**xrpl4j**][#xrpl4j] - java library, supports X-address and classic formats
-- [**xrpl-py**][#xrpl-py] - python library, supports X-address and classic formats
+- [**xrpl4j**][#xrpl4j] - Java maintained by the [XRPLF][#xrplf]
+- [**xrpl-py**][#xrpl-py] - Python maintained by the [XRPLF][#xrplf]
 - [**ripple-lib**](https://github.com/ripple/ripple-lib/): Java Script
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
@@ -225,7 +230,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 
-
+[#xrplf]: https://github.com/xrplf
+[#xrplf.org]: https://xrplf.org
 [#xrpldex]: https://xrpl.org/decentralized-exchange.html
 [#paystring.org]: https://paystring.org "The Unviersal Payment Pointer"
 [#xrpl4j]: https://github.com/XRPLF/xrpl-py
