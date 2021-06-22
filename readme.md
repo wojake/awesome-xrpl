@@ -37,7 +37,7 @@ Here are some things to know:
 - [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. 
   - src: [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) / [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
-  filtering.
+  filtering. [Public API](https://xrpintel.com/api)
   - 🔗 [Dossier of gateways](https://xrpintel.com/gateways) and their issued tokens as KYG or "Know Your Gateway".
 - [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
 - [XRPScan](https://xrpscan.com) 💫 Block explorer with a [public API](https://docs.xrpscan.com/)
@@ -245,7 +245,8 @@ Twitter bots that crunch numbers daily.
 - [Liquidity Index Bot](https://twitter.com/liquidityb) Posts the current snapshot of the Liquidity Index. The index was invented by [@tenitoshi](https://mobile.twitter.com/tenitoshi), and the bot is maintained by CinnappleFun
 - [UtilityScan](https://twitter.com/UtilityScan) - XRP On Demand Liquidity
   Tracker Running an XRPL Validator.  ([UtilityScan.com](https://utility-scan.com))
-- [xrp1ntel](https://twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod)
+- [**xrp1ntel**](https://twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod) - 
+  tweets are 
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
 
