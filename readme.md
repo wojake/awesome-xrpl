@@ -171,7 +171,7 @@ A format that "packs" a destination tag into the address. A classic address is a
 #### Code/Other
 - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
-- [ripple-data-api](https://github.com/ripple/ripple-data-api) **DEPRECATED**
+- [ripple-data-api](https://github.com/ripple/ripple-data-api) _DEPRECATED_
 - [federation-php](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset **No Maintainer**
 - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
