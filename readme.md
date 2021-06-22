@@ -211,6 +211,7 @@ Libraries to connect & interact with the daemon and the network.
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
   with [Ledger][#ledger.com] wallets.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
+  - _See also [Xumm Community](#app/xumm-community)_
 
 ### Libs/YMMV
 
@@ -310,6 +311,9 @@ Twitter bots that crunch numbers daily.
   filter wizard. _Formerly known as ZerpTracker._
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion) There's a 
   corresponding 📱 App that requires registration here.
+- [XUMM.community](https://xumm.community/) 🪄✨ 
+  <a name="app/xumm-community"></a> - Xumm Community is a useful wizard/tool that compliments the 
+  XUMM wallet
 
 ## Mobile
 - [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by  
