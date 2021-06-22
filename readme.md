@@ -87,6 +87,8 @@ Tools to visualize trades on the DEX.
 
 # XRPL Validators
 
+Each of these explorers show all validators for the network.
+
 - [XRPL Apps Validator Stats & Ranking](https://stats.xrplapps.com/) - The
   validator stats of the XRPLApps Suite.
 - [XRPScan Validator Registry](https://xrpscan.com/validators) 💫 - The XRPScan
