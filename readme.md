@@ -259,7 +259,8 @@ Relating to [PayString][#paystring.org]
 Stuff that didn't really fit anywhere else.
 
 - [Awesome Ripple](https://github.com/vhpoet/awesome-ripple) [![awesome-ilp](https://awesome.re/badge.svg)](https://github.com/vhpoet/awesome-ripple) -
-  A related awesome list, that uses a legacy name. A lot of items were taken from [`README.md@3d85e95`](https://github.com/vhpoet/awesome-ripple/blob/3d85e95f1614af6a4dca89a03e1f8156670a97ef/README.md)
+  A related awesome list, that uses a legacy name.
+  Many items from [`README.md@3d85e95`](https://github.com/vhpoet/awesome-ripple/blob/3d85e95f1614af6a4dca89a03e1f8156670a97ef/README.md)
 - [FUD Bingo](https://fudbingo.com) - A bingo card for XRP common misconceptions. Created by [Wietse][#wietse]
 - [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
   [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
