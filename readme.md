@@ -33,6 +33,7 @@ Here are some things to know:
 - 🗣️ = Discussion! An active discussion
 
 
+
 # XRPL Explorers
 
 - [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com) A block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
@@ -295,8 +296,10 @@ A format that "packs" a destination tag into the address. A classic address is a
 
 # Twitter Bots
 
-Twitter bots that crunch numbers daily.
+Twitter bots that crunch numbers. Updates are frequent and when certain thresholds are met.
 
+- [Bithomp Alerts](https://twitter.com/BithompAlerts) XRP price alerts by [@bithomp](https://twitter.com/bithomp):
+  more than 5% within an hour, more than 10% in a day. (XRP/USD XRP/BTC by [@bitstamp](https://twitter.com/bitstamp))
 - [Liquidity Index Bot](https://twitter.com/liquidityb) Posts the current snapshot of the Liquidity Index. The index was invented by [@tenitoshi](https://mobile.twitter.com/tenitoshi), and the bot is maintained by CinnappleFun
 - [UtilityScan](https://twitter.com/UtilityScan) - XRP On Demand Liquidity
   Tracker Running an XRPL Validator.  ([UtilityScan.com](https://utility-scan.com))
@@ -304,6 +307,7 @@ Twitter bots that crunch numbers daily.
   tweets interesting and easily-digestable messages of rolling stats of the XRPL. It's followers, tend to raise the more
   interesting of them to top with retweets/likes.
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
+
 
 
 # Apps
