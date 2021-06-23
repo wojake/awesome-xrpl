@@ -250,9 +250,9 @@ targeting web standards.
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
-- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)
-  _Deprecated_ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/) 
+- ~~[rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)
   Lightweight JavaScript client with health detection and auto-reconnect
+  _Deprecated_~~ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/)
 - [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
   Simple PHP federation endpoint with a static JSON dataset
 
