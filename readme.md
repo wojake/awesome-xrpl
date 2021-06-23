@@ -207,7 +207,7 @@ Libraries to connect & interact with the daemon and the network.
 
 - [**xrpl4j**][#xrpl4j] - Java maintained by the [XRPLF][#xrplf]
 - [**xrpl-py**][#xrpl-py] - Python maintained by the [XRPLF][#xrplf]
-- [**ripple-lib**](https://github.com/ripple/ripple-lib/) - JavaScript / Typescript
+- [**ripple-lib**][#ripple-lib] - JavaScript / Typescript
 
 ### Lib Benchmarks / XRPL Vanity Generators
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
@@ -301,6 +301,7 @@ A format that "packs" a destination tag into the address. A classic address is a
 [**X-address Info**](https://xrpaddress.info) Everything you wanted to know about X-address format.
 
 - [xrpl-tagged-address-codec](https://github.com/xrp-community/xrpl-tagged-address-codec) - js package for encoding/decoding X-address format
+- [ripple-lib][#ripple-lib] - js / Typescript library, supports X-address and classic formats
 - [xrpl4j][#xrpl4j] - java library, supports X-address and classic formats
 - [xrpl-py][#xrpl-py] - python library, supports X-address and classic formats
 
@@ -434,6 +435,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [#paystring.org]: https://paystring.org "The Unviersal Payment Pointer"
 [#xrpl4j]: https://github.com/XRPLF/xrpl-py
 [#xrpl-py]: https://github.com/XRPLF/xrpl-py
+[#ripple-lib]: https://github.com/ripple/ripple-lib
 [#xrpl-labs]: https://xrpl-labs.com/
 [#xumm.app]: https://xumm.app
 [#xumm-sdk]: https://xumm.readme.io
