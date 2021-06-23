@@ -212,7 +212,6 @@ Libraries to connect & interact with the daemon and the network.
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
 - [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-keypairs](https://github.com/ripple/ripple-keypairs),
   part of [ripple-lib](https://github.com/ripple/ripple-lib)
-- [CodeShark/RippleGen](https://github.com/CodeShark/RippleGen/) - C++/Boost
 
 ### Lib Connecting a Hardware Wallet
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
@@ -263,9 +262,25 @@ Code repositories that are also applications in their own right.
 ## Desktop
 - [Ripplectron](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 
+
+# Code/IoT
+
+- [XRPL-monitor-ESP32](https://github.com/derkomai/XRPL-monitor-ESP32) - Using an ESP32 (an arduino with wifi),
+  and circuit python to communicate with the XRPL.
+
+See also:
+- [node-red-contrib-xrpl](#code/node-red-contrib-xrpl).
+
+
 # Code/Other
 
 Code repositories that didn't fit anywhere else
+
+## Code/Other/Vanity Generators
+
+- [CodeShark/RippleGen](https://github.com/CodeShark/RippleGen/) - C++/Boost over 8 years old, need to test it!
+
+## Code/Other
 
 - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
@@ -275,13 +290,6 @@ Code repositories that didn't fit anywhere else
 - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
-
-## Code/IoT
-
-- [XRPL-monitor-ESP32](https://github.com/derkomai/XRPL-monitor-ESP32) - Using an ESP32 (an arduino with wifi),
-  and circuit python to communicate with the XRPL.
-
-See also [node-red-contrib-xrpl](#code/node-red-contrib-xrpl).
 
 
 # X-address
