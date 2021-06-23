@@ -270,7 +270,7 @@ Code repositories that are also applications in their own right.
   and circuit python to communicate with the XRPL.
 
 See also:
-- [node-red-contrib-xrpl](#code/node-red-contrib-xrpl).
+- [node-red-contrib-xrpl](#code/node-red-contrib-xrpl)
 
 
 # Code/Other
