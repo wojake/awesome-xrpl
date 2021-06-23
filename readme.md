@@ -167,7 +167,7 @@ with a bump to it's RAM to 32GB since it also has 1Gbps networking.
 
 I run a node and want to be a good participant.
 
-If it's public, consider adding it to the [public node list below](#i-need-a-node-to-connect-to).
+If it's public, consider adding it to the [public node list below](#i-need-a-node-to-connect-to-).
 
 ## Broadcast Channels
 
