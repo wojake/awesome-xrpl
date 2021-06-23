@@ -337,8 +337,8 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
   XUMM wallet
 
 ## Mobile
-- [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by  
-  leveraging the XRPL and [issued currencies](https://xrpl.org/issued-currencies-overview.html).
+- [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by leveraging the XRPL
+  and [issued currencies](https://xrpl.org/issued-currencies-overview.html).
 
 
 
