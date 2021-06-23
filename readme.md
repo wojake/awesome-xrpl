@@ -253,6 +253,8 @@ targeting web standards.
 - [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)
   _Deprecated_ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/) 
   Lightweight JavaScript client with health detection and auto-reconnect
+- [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
+  Simple PHP federation endpoint with a static JSON dataset
 
 
 ## DEX Dev Tools
@@ -295,12 +297,10 @@ Code repositories that didn't fit anywhere else
 
 - [ripple-blobvault](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [rippled-historical-database](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
-- [ripple-data-api](https://github.com/ripple/ripple-data-api) _Deprecated_
-- [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
-  Simple PHP federation endpoint with a static JSON dataset
 - [federation-python](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails](https://github.com/singpolyma/ripple-rails/)
 - [Ripple Checkout](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
+- [ripple-data-api](https://github.com/ripple/ripple-data-api) _Deprecated_
 
 
 # X-address
