@@ -209,7 +209,8 @@ Libraries to connect & interact with the daemon and the network.
 
 ### Lib Benchmarks / XRPL Vanity Generators
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
-- [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-lib](https://github.com/ripple/ripple-lib/)
+- [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-keypairs](https://github.com/ripple/ripple-keypairs),
+  part of [ripple-lib](https://github.com/ripple/ripple-lib)
 
 ### Lib Connecting a Hardware Wallet
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
