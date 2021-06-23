@@ -234,15 +234,16 @@ targeting web standards.
 
 **Note**: Unverified or deprecated libaries. If they're deprecated, an alternative is included
 
-- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)
-  _Deprecated_ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/) 
-  Lightweight JavaScript client with health detection and auto-reconnect
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 - [ripple-lib-ruby](https://github.com/kevinejohn/ripple-lib-rpc-ruby/): Ruby
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
+- [rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)
+  _Deprecated_ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/) 
+  Lightweight JavaScript client with health detection and auto-reconnect
+
 
 ## DEX Dev Tools
 
