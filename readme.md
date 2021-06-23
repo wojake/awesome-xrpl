@@ -334,6 +334,8 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
 
 # Apps
 
+Apps that have integration or involve XRPL in some way.
+
 ## Software as a Service (SaaS)
 
 - [Block Trac](https://blocktr.ac) <a name="app/bloctrac"></a>
@@ -351,9 +353,7 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
   and [issued currencies](https://xrpl.org/issued-currencies-overview.html).
 
 
-
-
-# Non-Custodial Wallets
+# Wallets/Non-Custodial
 
 - 🌟[**XUMM**][#xumm.app] 📱 _Pronounced "sum"_ - XUMM is a self-custodial wallet for
   Android & iOS, built by [XRPL-Labs][#xrpl-labs]. XUMM can hold many accounts,
