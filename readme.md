@@ -399,11 +399,11 @@ XRP is utilized to connect other block chains to the XRPL.
 
 These are networks that run in parallel to the XRPL, the XRP input into the network through various ways.
 
-- [Wanchain](https://www.wanchain.org/) - Wanchain is a blockchain with a novel approach to node operation using SMPC
+- [Wanchain](https://www.wanchain.org/) - a blockchain with a novel approach to node operation using SMPC
   or [Secure Multi Party Computation](https://www.explorewanchain.org/#/../technology/smpc)
-- [Flare Networks](https://flare.xyz) - Flare networks is a blockchain that uses 
+- [Flare Networks](https://flare.xyz) - a blockchain that uses 
   <abbr title="Flare Consensus Protocol">[FCP](https://flare.xyz/flare-consensus-protocol-an-explainer/)</abbr>
-  is due to launch Q2/Q3 2021.
+  and is due to launch Q2/Q3 2021.
   XRP is collateralized according to the rate provided by the [FTSO](https://flare.xyz/ftso-a-breakdown/),
   [FXRP](https://drive.google.com/file/d/1ftqaiUgU7-57KEFzYQ807h9pwUzsE84Y/view?usp=sharing)
   is one of several assets that will be integrated with 
