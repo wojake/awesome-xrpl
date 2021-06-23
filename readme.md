@@ -371,7 +371,7 @@ XRP is utilized to connect other block chains to the XRPL.
 
 ## Cross Blockchain / Parallel Networks
 
-These are networks that run in parallel to the XRPL.
+These are networks that run in parallel to the XRPL, the XRP input into the network through various ways.
 
 - [Wanchain](https://www.wanchain.org/) - Wanchain is a blockchain with a novel approach to node operation using SMPC
   or [Secure Multi Party Computation](https://www.explorewanchain.org/#/../technology/smpc)
