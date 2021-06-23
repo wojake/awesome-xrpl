@@ -6,8 +6,7 @@
 
 Use the outline navigation from the top left:
 
-<img width="237" alt="image" src="https://user-images.githubusercontent.com/134478/123027016-bfbe1400-d3a2-11eb-8bc7-a926f665dfdb.png">
-<img width="237" alt="image" src="https://user-images.githubusercontent.com/134478/122861901-d3f00b80-d2e5-11eb-84e5-d8f9de0b5529.png">
+<img width="237" alt="image" src="https://user-images.githubusercontent.com/134478/123027016-bfbe1400-d3a2-11eb-8bc7-a926f665dfdb.png"><img width="237" alt="image" src="https://user-images.githubusercontent.com/134478/122861901-d3f00b80-d2e5-11eb-84e5-d8f9de0b5529.png">
 
 
 
