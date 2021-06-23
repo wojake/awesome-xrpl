@@ -197,7 +197,7 @@ wss://xrplcluster.com
 See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
 ## Connecting to `rippled`
-- [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html/)
+- [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html)
 - [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
 
 ## Libs
