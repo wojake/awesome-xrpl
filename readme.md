@@ -384,7 +384,10 @@ Relating to [PayString][#paystring.org]. PayString is agnostic to implementation
 
 # XRPL Cross Blockchain
 
-XRP is utilized to connect other block chains to the XRPL. 
+XRP is utilized to connect other block chains to the XRPL.
+This is an intrinsic property of XRP, since it's a [scarce resource](https://github.com/ripple/rippled/commit/f0e3383856a8923e55b0f10e7822de9031b7159e)
+and the native token of the XRPL.
+
 
 ## Cross BlockChain / Sidechains
 - 🌟 [A Vision for Federated Sidechains on the XRPL](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o) 
