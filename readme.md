@@ -110,7 +110,8 @@ User Interfaces to the DEX.
 
 Tools to visualize trades on the DEX.
 
-[Velocity of Value](https://dex.xrplapps.com/) - The DEX tool of the XRPLApps Suite
+- [**Velocity of Value**](https://dex.xrplapps.com/) 💫 - The DEX tool of the XRPLApps Suite, focuses on visualizing non-XRP movements as `value per second`.
+  _First-Time Use recommendation: dimming the "inactive" assets, and collapsing "unclassified"._
 
 # XRPL Validators
 
