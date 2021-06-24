@@ -340,7 +340,8 @@ Code repositories that didn't fit anywhere else
 
 # X-address
 
-A format that "packs" a destination tag into the address. A classic address is an account on XRPL, with an optional tag. [_via_](https://xrpl.org/accounts.html#addresses)
+A format that "packs" a destination tag into the address - Starts with `X`. 
+A classic address - Starts with `r` - is an account on XRPL, with an optional tag. [_via_](https://xrpl.org/accounts.html#addresses)
 
 [**X-address Info**](https://xrpaddress.info) Everything you wanted to know about X-address format.
 
