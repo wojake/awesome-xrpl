@@ -63,9 +63,9 @@ Here are some things to know:
 
 ## Casino Coin **`$CSC`**
 
-> ♠️ ***Against all odds.*** *To provide fast and secure solutions for the regulated gaming industry with both players and operators in mind.*
+> ***Against all odds.*** *To provide fast and secure solutions for the regulated gaming industry with both players and operators in mind.*
 
-[🏠](https://casinocoin.im)
+[♠️](https://casinocoin.im)
 
 Issuer:
 [Bithomp `~CasinoCoin`](https://bithomp.com/explorer/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr) | [XRPScan _CasinoCoin_](https://xrpscan.com/account/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr)
