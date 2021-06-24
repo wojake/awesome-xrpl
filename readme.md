@@ -103,7 +103,9 @@ Related to the built-in [DEX][#xrpldex].
 
 User Interfaces to the DEX.
 
-- [Sologenic DEX](https://sologenic.org) <a name="dex-ui/sologenic.org"></a> The Decentralized Exchange UI from Sologenic
+- [Sologenic DEX](https://sologenic.org) <a name="dex-ui/sologenic.org"></a> The Decentralized Exchange UI from Sologenic.
+  It's flexible and allows the user to choose any asset in their wallet on either side of the trade.
+  This is a hallmark of the XRPL DEX, you could create an offer for any assets you have [Trustlined](https://xrpl.org/trust-lines-and-issuing.html).
 - [XRP Tookit](https://www.xrptoolkit.com) 🪄✨ [<kbd>M</kbd>](https://xrptoolkit.com)[<kbd>T</kbd>](https://test.xrptoolkit.com)
   The wizard makes it easy for *anyone* who's never sent an XRP transaction to do their first one, using your wallet to sign!
   This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
