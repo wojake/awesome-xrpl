@@ -383,7 +383,7 @@ Apps that have integration or involve XRPL in some way.
 - [**Ledger**][#ledger.com] Ledger is a hardware wallet manufacturer. Their
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
-- [Solo Wallet](https://www.sologenic.com/ecosystem/solo-wallet) <a name="non-custodial/solo-wallet"></a> 
+- [**Solo Wallet**](https://www.sologenic.com/ecosystem/solo-wallet) <a name="non-custodial/solo-wallet"></a> 📱
   Store your cryptocurrencies including SOLO, XRP, and the upcoming Tokenized Assets such as Stocks, ETFs, and commodities all in one decentralized wallet app.
   iOS/Android. [Unverified Source](https://github.com/sologenic/sologenic-expo-wallet)
 - [**Trezor**](https://trezor.io) - Trezor wallet, supports XRP.
