@@ -57,8 +57,6 @@ Here are some things to know:
 
 All [issued currencies (_aka tokens_)](https://xrpl.org/issued-currencies-overview.html) are interoperable by default using the [built-in DEX](#xrpl-dex).
 
-The DEX unlocks [auto-bridging](https://xrpl.org/autobridging.html), and [path finding](https://xrpl.org/paths.html).
-
 ## Token Explorers
 
 - [XUMM.Community Token List](https://xumm.community/tokens) - 🪄✨ <kbd>M</kbd><kbd>T</kbd> See all tokens
@@ -95,8 +93,9 @@ Issuer:
 
 # XRPL DEX
 
-Related to the built-in [DEX][#xrpldex]
+Related to the built-in [DEX][#xrpldex]. 
 
+> 💡 The DEX unlocks [auto-bridging](https://xrpl.org/autobridging.html), and [path finding](https://xrpl.org/paths.html).
 
 ## DEX UI
 
