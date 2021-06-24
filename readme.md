@@ -410,6 +410,7 @@ Apps that have integration or involve XRPL in some way.
 Relating to [PayString][#paystring.org]. PayString is agnostic to implementation and is an easy protocol to adopt for dynamic and authorized wallet responses.
 
 - [payid-lambda](https://github.com/xpring-eng/payid-lambda) An AWS Lambda for serving up a PayString
+- [paystring-cli](https://github.com/PayString/paystring-cli) Query a PayString from the commandline.
 
 # Interledger
 
