@@ -63,7 +63,8 @@ Here are some things to know:
 
 ## Casino Coin **`$CSC`**
 
-> ♠️ **Against all odds**. To provide fast and secure solutions for the regulated gaming industry with both players and operators in mind.
+> ♠️ ***Against all odds.*** *To provide fast and secure solutions for the regulated gaming industry with both players and operators in mind.*
+[🏠](https://casinocoin.im)
 
 Issuer:
 [Bithomp `~CasinoCoin`](https://bithomp.com/explorer/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr) | [XRPScan _CasinoCoin_](https://xrpscan.com/account/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr)
@@ -75,7 +76,9 @@ Issuer:
   DEX orders relating to CSC.
 
 ## Sologenic **`$SOLO`**
-> Facilitates investing and trading between crypto and non-blockchain assets such as stocks, ETFs, and commodities from top 30+ global stock exchanges.
+
+> *Facilitates investing and trading between crypto and non-blockchain assets such as stocks, ETFs, and commodities from top 30+ global stock exchanges.*
+[🏠](https://sologenic.com)
 
 Issuer:
 [Bithomp `~SOLO`](https://bithomp.com/explorer/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz) | [XRPScan _Sologenic_](https://xrpscan.com/account/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz)
