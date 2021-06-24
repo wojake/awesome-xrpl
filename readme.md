@@ -55,7 +55,9 @@ Here are some things to know:
 
 # XRPL Tokens
 
-All [issued currencies (_aka tokens_)](https://xrpl.org/issued-currencies-overview.html) are interoperable by default using the [built-in DEX](#xrpl-dex).
+> _colloquially referred to as "Tokens", formerly known as "IOU"_
+
+All [( issued currencies || tokens )](https://xrpl.org/issued-currencies-overview.html) are interoperable by default using the [built-in DEX](#xrpl-dex).
 
 ## Token Explorers
 
