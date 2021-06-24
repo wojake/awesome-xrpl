@@ -64,6 +64,7 @@ Here are some things to know:
 ## Casino Coin **`$CSC`**
 
 > ♠️ ***Against all odds.*** *To provide fast and secure solutions for the regulated gaming industry with both players and operators in mind.*
+
 [🏠](https://casinocoin.im)
 
 Issuer:
@@ -78,6 +79,7 @@ Issuer:
 ## Sologenic **`$SOLO`**
 
 > *Facilitates investing and trading between crypto and non-blockchain assets such as stocks, ETFs, and commodities from top 30+ global stock exchanges.*
+
 [🏠](https://sologenic.com)
 
 Issuer:
