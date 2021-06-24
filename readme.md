@@ -55,8 +55,7 @@ Here are some things to know:
 
 # XRPL Tokens
 
-Did you know the XRPL can issue other assets? It was implicit in it's mission to reduce friction for payments.
-All [issued currencies (_aka tokens_)](https://xrpl.org/issued-currencies-overview.html) are interoperable by default.
+All [issued currencies (_aka tokens_)](https://xrpl.org/issued-currencies-overview.html) are interoperable by default using the [built-in DEX](#xrpl-dex).
 
 The DEX unlocks [auto-bridging](https://xrpl.org/autobridging.html), and [path finding](https://xrpl.org/paths.html).
 
