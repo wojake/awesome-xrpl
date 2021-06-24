@@ -117,6 +117,16 @@ Tools to visualize trades on the DEX.
 - [**Velocity of Value**](https://dex.xrplapps.com/) 💫 - The DEX tool of the XRPLApps Suite, focuses on visualizing non-XRP movements as `value per second`.
   _First-Time Use recommendation: dimming the "inactive" assets, and collapsing "unclassified"._
 
+## DEX Dev Tools
+
+XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
+
+- [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
+  Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
+  Uses [`xrpl-py`][#xrpl-py]
+
+_See also [XRPL Developer Tools](#xrpl-developer-tools)._
+
 # XRPL Validators
 
 Each of these explorers show all validators for the network.
@@ -289,15 +299,6 @@ targeting web standards.
   _Deprecated_ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/)
 - [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
   Simple PHP federation endpoint with a static JSON dataset
-
-
-## DEX Dev Tools
-
-XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
-
-- [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
-  Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
-  Uses [`xrpl-py`][#xrpl-py]
 
 
 # Code/App
