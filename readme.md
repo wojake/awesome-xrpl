@@ -104,7 +104,9 @@ Related to the built-in [DEX][#xrpldex].
 User Interfaces to the DEX.
 
 - [Sologenic DEX](https://sologenic.org) <a name="dex-ui/sologenic.org"></a> The Decentralized Exchange UI from Sologenic
-- [XRP Tookit](https://www.xrptoolkit.com) This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
+- [XRP Tookit](https://www.xrptoolkit.com) 🪄✨ [<kbd>M</kbd>](https://xrptoolkit.com)[<kbd>T</kbd>](https://test.xrptoolkit.com)
+  The wizard makes it easy for *anyone* who's never sent an XRP transaction to do their first one, using your wallet to sign!
+  This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
 
 ## DEX Visualizer
 
