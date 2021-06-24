@@ -241,11 +241,11 @@ See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
 Libraries to connect & interact with the daemon and the network.
 
-- XRPLF/[**xrpl4j**][#xrpl4j] Java
-- XRPLF/[**xrpl-py**][#xrpl-py]
+- [**xrpl4j**][#xrpl4j] Java _maintained by [XRPLF][#xrplf]_
+- [**xrpl-py**][#xrpl-py]
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
-  Python
-- ripple/[**ripple-lib**][#ripple-lib] - JavaScript / Typescript
+  Python _maintained by [XRPLF][#xrplf]_
+- [**ripple-lib**][#ripple-lib] - JavaScript / Typescript
 
 ### Lib Benchmarks / XRPL Vanity Generators
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
