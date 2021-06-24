@@ -61,7 +61,12 @@ Here are some things to know:
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
   token list.
 
-## Casino Coin (CSC)
+## Casino Coin **`$CSC`**
+
+> ♠️ **Against all odds**. To provide fast and secure solutions for the regulated gaming industry with both players and operators in mind.
+
+Issuer:
+[Bithomp `~CasinoCoin`](https://bithomp.com/explorer/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr) | [XRPScan _CasinoCoin_](https://xrpscan.com/account/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr)
 
 - [CasinoCoin.info](https://casinocoin.info/) - Everything you wanted to know
   about CSC. Has quickly grown to a great source for analyzing liquidity
@@ -69,6 +74,13 @@ Here are some things to know:
   Several tools relating to liquidity are available. It also breaks down all
   DEX orders relating to CSC.
 
+## Sologenic **`$SOLO`**
+> Facilitates investing and trading between crypto and non-blockchain assets such as stocks, ETFs, and commodities from top 30+ global stock exchanges.
+
+Issuer:
+[Bithomp `~SOLO`](https://bithomp.com/explorer/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz) | [XRPScan _Sologenic_](https://xrpscan.com/account/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz)
+
+- See [Sologenic.org](#dex-ui/sologenic.org), a XRPL DEX UI that has supports popular non-custodial wallets or you can use the (_non-custodial_) [Solo-Wallet](#non-custodial/solo-wallet).
 
 # XRPL DEX
 
@@ -79,7 +91,7 @@ Related to the built-in [DEX][#xrpldex]
 
 User Interfaces to the DEX.
 
-- [Sologenic DEX](https://sologenic.org) The Decentralized Exchange UI from Sologenic
+- [Sologenic DEX](https://sologenic.org) <a name="dex-ui/sologenic.org"></a> The Decentralized Exchange UI from Sologenic
 - [XRP Tookit](https://www.xrptoolkit.com) This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
 
 ## DEX Visualizer
@@ -371,6 +383,9 @@ Apps that have integration or involve XRPL in some way.
 - [**Ledger**][#ledger.com] Ledger is a hardware wallet manufacturer. Their
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
+- [Solo Wallet](https://www.sologenic.com/ecosystem/solo-wallet) <a name="non-custodial/solo-wallet"></a> 
+  Store your cryptocurrencies including SOLO, XRP, and the upcoming Tokenized Assets such as Stocks, ETFs, and commodities all in one decentralized wallet app.
+  iOS/Android. [Unverified Source](https://github.com/sologenic/sologenic-expo-wallet)
 - [**Trezor**](https://trezor.io) - Trezor wallet, supports XRP.
 - [**Paper Account Generator**](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side. By [Wietse][#wietse]
 
