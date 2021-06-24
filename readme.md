@@ -279,7 +279,7 @@ Libraries to connect & interact with the daemon and the network.
 section in lieu of some integration suite, like [Acid Tests](https://www.acidtests.org/) does for browsers and
 targeting web standards.
 
-- [xrpb](https://github.com/DevNullProd/XRBP) - Ruby library [rubydoc](https://www.rubydoc.info/gems/xrbp)
+- [xrbp](https://github.com/DevNullProd/XRBP) - Ruby library [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
   <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
 
