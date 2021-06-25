@@ -185,6 +185,7 @@ Want to skip ahead? Use the [developer tools](#xrpl-developer-tools) and a [publ
   If you want to go full custom. The [shipped, example configuration file](https://github.com/ripple/rippled/blob/7bd5d51e4e4e76a5547051d30b330739618eddb0/cfg/rippled-example.cfg)
   is pretty verbose about each option, this wizard will
   package you up your validators, your config and even instructions in a zip you generate locally.
+- [IANA Registration for `xrpl` service port](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search=2459) `2459` registerd with IANA as the peer port protocol. [via](https://xrpl.org/peer-protocol.html#peer-protocol-port)
   
 See [XRPL Developer Tools](#xrpl-developer-tools) for connecting to your node or any other node, such as a public one like [XRPLcluster](https://xrplcluster.com).
 
