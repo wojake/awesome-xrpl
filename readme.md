@@ -21,7 +21,9 @@ To come back here anytime you want – just remember the [**xrpl.rocks**](https:
 
 # Conventions
 
-The XRPL is a decentralized, immutable, censorship-resistant, distributed-ledger. It is also near instant, and the daemon itself is capable of websockets.
+The XRPL is a [decentralized](https://xrpl.org/consensus.html), [immutable](https://xrpl.org/modifying-the-ledger.html),
+[censorship-resistant](https://xrpl.org/transaction-queue.html), distributed-ledger.
+It is also near instant, and the daemon itself is capable of websockets.
 
 Most projects include an active view of current transactions occuring on the network.
 
