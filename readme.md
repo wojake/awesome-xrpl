@@ -263,7 +263,7 @@ Libraries to connect & interact with the daemon and the network.
 - [**xrpl-py**][#xrpl-py]
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
   Python _maintained by [XRPLF][#xrplf]_
-- [**ripple-lib**][#ripple-lib] - JavaScript / Typescript
+- [**ripple-lib**][#ripple-lib] - JavaScript / TypeScript
 
 ### Lib Benchmarks / XRPL Vanity Generators
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
@@ -285,6 +285,9 @@ targeting web standards.
 - [xrbp](https://github.com/DevNullProd/XRBP) - Ruby library [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
   <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
+- [xrpl-client](https://github.com/XRPL-Labs/xrpl-client) - A JavaScript/TypeScript client that auto-reconnects 
+  and verifies it is connected with a public API call of [`server_info`](https://xrpl.org/server_info.html)
+  _Maintained by [XRPL-Labs](https://github.com/XRPL-Labs)_
 
 
 ### Libs/Deprecated||Unverified
