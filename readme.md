@@ -206,7 +206,7 @@ with a bump to it's RAM to 32GB since it also has 1Gbps networking.
   
 # I Run a Node 🔧
 
-I run a node and want to be a good participant.
+I run a node and want to be a [good participant](https://xrpl.org/run-rippled-as-a-validator.html#1-understand-the-traits-of-a-good-validator).
 
 If it's public, consider adding it to the [public node list below](#i-need-a-node-to-connect-to-).
 
