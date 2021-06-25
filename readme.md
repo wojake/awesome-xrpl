@@ -259,11 +259,27 @@ See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
 Libraries to connect & interact with the daemon and the network.
 
+### Libs / Production-Ready
+
+Libraries that are current and production-ready.
+
+- [**ripple-lib**][#ripple-lib] - JavaScript / TypeScript
 - [**xrpl4j**][#xrpl4j] Java _maintained by [XRPLF][#xrplf]_
 - [**xrpl-py**][#xrpl-py]
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
   Python _maintained by [XRPLF][#xrplf]_
-- [**ripple-lib**][#ripple-lib] - JavaScript / TypeScript
+
+### Libs/YMMV
+
+**Note**: Your mileage may vary!
+
+If you find any of these to be production-ready, please consider moving it to top 
+section in lieu of some integration suite, like [Acid Tests](https://www.acidtests.org/) does for browsers and
+targeting web standards.
+
+- [xrbp](https://github.com/DevNullProd/XRBP) - Ruby :: [rubydoc](https://www.rubydoc.info/gems/xrbp)
+- [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
+  <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
 
 ### Lib Benchmarks / XRPL Vanity Generators
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
@@ -276,18 +292,6 @@ Libraries to connect & interact with the daemon and the network.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
   - _See also [Xumm Community](#app/xumm-community)_
 
-### Libs/YMMV
-
-**Note**: Your mileage may vary! If you find any of these to be production-ready, please consider moving it to top 
-section in lieu of some integration suite, like [Acid Tests](https://www.acidtests.org/) does for browsers and
-targeting web standards.
-
-- [xrbp](https://github.com/DevNullProd/XRBP) - Ruby library [rubydoc](https://www.rubydoc.info/gems/xrbp)
-- [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
-  <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
-- [xrpl-client](https://github.com/XRPL-Labs/xrpl-client) - A JavaScript/TypeScript client that auto-reconnects 
-  and verifies it is connected with a public API call of [`server_info`](https://xrpl.org/server_info.html)
-  _Maintained by [XRPL-Labs](https://github.com/XRPL-Labs)_
 
 
 ### Libs/Deprecated||Unverified
