@@ -115,7 +115,7 @@ User Interfaces to the DEX. All transactions are signed by your [non-custodial w
 
 ## DEX Explorer
 
-- [Gatehub Markets](https://gatehub.net/markets/) - Gatheub is a gateway and issuer of digital assets like 
+- [Gatehub Markets](https://gatehub.net/markets/) - Gatehub is a gateway and issuer of digital assets like 
   Bitcoin, ETH, which are then traded on the DEX. This explorer is for their issuances.
   [Gatehub](https://gatehub.net) is also a custodial wallet, as it is a DEX; you're free to trade in their assets without
   needing to create a gatehub account.
