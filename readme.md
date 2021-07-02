@@ -288,6 +288,9 @@ targeting web standards.
 - [xrbp](https://github.com/DevNullProd/XRBP) - Ruby :: [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
   <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
+- [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
+- [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
+
 
 ### Lib Benchmarks / XRPL Vanity Generators
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
@@ -314,8 +317,6 @@ targeting web standards.
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
 - [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
   Simple PHP federation endpoint with a static JSON dataset
-- [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
-- [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
 
 
 # Code/App
