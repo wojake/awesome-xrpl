@@ -314,9 +314,8 @@ targeting web standards.
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
 - [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
   Simple PHP federation endpoint with a static JSON dataset
-- ~~[rippled-ws-client](https://www.npmjs.com/package/rippled-ws-client)
-  Lightweight JavaScript client with health detection and auto-reconnect~~
-  _Deprecated_ [**Use ripple-lib instead**](https://github.com/ripple/ripple-lib/)
+- [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
+- [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
 
 
 # Code/App
