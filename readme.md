@@ -265,6 +265,14 @@ See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
 
 ## Libs
 
+- [Libs/Production-Ready](#libs--production-ready)
+    - [Libs/YMMV](#libs--ymmv)
+    - [Libs/SDK](#libs--sdk)
+    - [Libs/Benchmarks](#lib--benchmarks)
+      - [XRPL Address Vanity Generators](#xrpl-vanity-generators)
+- [Libs/Unverified](#libs--unverified)
+- [Libs/Deprecated](#libs--deprecated)
+
 Libraries to connect & interact with the daemon and the network.
 
 ### Libs / Production-Ready
@@ -277,7 +285,7 @@ Libraries that are current and production-ready.
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
   Python _maintained by [XRPLF][#xrplf]_
 
-### Libs/YMMV
+#### Libs/YMMV
 
 **Note**: Your mileage may vary!
 
@@ -289,6 +297,7 @@ targeting web standards.
 
 </details>
 
+
 - [xrbp](https://github.com/DevNullProd/XRBP) - Ruby :: [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
   <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
@@ -296,12 +305,23 @@ targeting web standards.
 - [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
 
 
-### Lib Benchmarks / XRPL Vanity Generators
+### Libs/Benchmarks
+
+#### XRPL Vanity Generators
+
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
 - [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-keypairs](https://github.com/ripple/ripple-keypairs),
   part of [ripple-lib](https://github.com/ripple/ripple-lib)
 
-### Lib Connecting a Hardware Wallet
+
+### Libs/SDK 
+
+Packaged and installable, can be used to interface with an API or
+Application.
+
+
+#### Connecting a Wallet
+
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
   with [Ledger][#ledger.com] wallets.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
