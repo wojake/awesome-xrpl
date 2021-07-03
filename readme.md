@@ -281,9 +281,13 @@ Libraries that are current and production-ready.
 
 **Note**: Your mileage may vary!
 
+<details><summary> Do you use any of these in production? </summary>
+
 If you find any of these to be production-ready, please consider moving it to top 
 section in lieu of some integration suite, like [Acid Tests](https://www.acidtests.org/) does for browsers and
 targeting web standards.
+
+</details>
 
 - [xrbp](https://github.com/DevNullProd/XRBP) - Ruby :: [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
@@ -305,9 +309,9 @@ targeting web standards.
 
 
 
-### Libs/Deprecated||Unverified
+### Libs/Unverified
 
-**Note**: Unverified or deprecated libaries. If they're deprecated, an alternative is included
+**Note**: Unverified and not updated (unofficially deprecated)
 
 - [ripple-libpp](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 - [ripple-rest](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
@@ -315,9 +319,13 @@ targeting web standards.
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
+
+### Libs/Deprecated
+
+**Note**: Unverified or deprecated libaries. If they're deprecated, an alternative is included
+
 - [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
   Simple PHP federation endpoint with a static JSON dataset
-
 
 # Code/App
 Code repositories that are also applications in their own right.
