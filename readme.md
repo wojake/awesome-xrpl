@@ -364,9 +364,9 @@ A classic address - Starts with `r` - is an account on XRPL, with an optional ta
 [**X-address Info**](https://xrpaddress.info) Everything you wanted to know about X-address format.
 
 - [xrpl-tagged-address-codec](https://github.com/xrp-community/xrpl-tagged-address-codec) - js package for encoding/decoding X-address format
-- [ripple-lib][#ripple-lib] - js / Typescript library, supports X-address and classic formats
-- [xrpl4j][#xrpl4j] - java library, supports X-address and classic formats
-- [xrpl-py][#xrpl-py] - python library, supports X-address and classic formats
+- [ripple-lib][#ripple-lib] - JavaScript/TypeScript library, supports X-address and classic formats
+- [xrpl4j][#xrpl4j] - Java library, supports X-address and classic formats
+- [xrpl-py][#xrpl-py] - Python library, supports X-address and classic formats
 
 
 # Twitter Bots
