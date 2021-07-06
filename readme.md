@@ -387,6 +387,9 @@ Frameworks for interacting with multiple chains, including XRPL.
 
 Code repositories that didn't fit anywhere else
 
+- [Get GitHub XRPL Tx Types](https://runkit.com/wietsewind/get-gh-xrpl-tx-types) - this runkit page shows how to scrape the [xrpl.org](https://xrpl.org)
+  published pages to determine the transaction types and their schema.
+
 ## Code/Other/Vanity Generators
 
 See also [XRPL Vanity Generators](#xrpl-vanity-generators)
