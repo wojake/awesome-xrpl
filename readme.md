@@ -257,11 +257,18 @@ Aliases:
 
 # XRPL Developer Tools
 
-See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html)
+See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html), the list
+below are shortcuts for convenience.
 
 ## Connecting to `rippled`
-- [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html)
-- [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html)
+- [XRPL.org WebSocket Tool](https://xrpl.org/websocket-api-tool.html) <kbd>M</kbd><kbd>T</kbd><kbd>D</kbd>- connect
+  to a node in the browser and send txns.
+- [XRPL.org Info Tool](https://xrpl.org/xrp-ledger-rpc-tool.html) - Get Info
+  with a classic address, transaction ID, or ledger index.
+- [Transaction Sender](https://xrpl.org/tx-sender.html) 🪄✨ -  This tool sends transactions to the XRP Testnet
+  address of your choice so you can test how you monitor and respond to incoming transactions.
+- [Testnet Faucet](https://xrpl.org/xrp-testnet-faucet.html) - For funding (and
+  creating) a testnet wallet.
 
 ## Libs
 
