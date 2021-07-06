@@ -347,6 +347,7 @@ Application.
 - [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
   Simple PHP federation endpoint with a static JSON dataset
 
+
 # Code/App
 Code repositories that are also applications in their own right.
 
@@ -366,11 +367,22 @@ See also:
 - [node-red-contrib-xrpl](#code/node-red-contrib-xrpl)
 
 
+# Code/Framework
+
+## Code/Framework/Multi-Chain
+Frameworks for interacting with multiple chains, including XRPL.
+
+- [CoinClub Framework](https://github.com/QCloud-DevOps/CoinClub_Framework) -  A Python Library for multiple Blockchains.
+  Token support for XRP, XLM, FileCoin, Algorand, Cardano, and more.
+
+
 # Code/Other
 
 Code repositories that didn't fit anywhere else
 
 ## Code/Other/Vanity Generators
+
+See also [XRPL Vanity Generators](#xrpl-vanity-generators)
 
 - [CodeShark/RippleGen](https://github.com/CodeShark/RippleGen/) - C++/Boost over 8 years old, need to test it!
 
