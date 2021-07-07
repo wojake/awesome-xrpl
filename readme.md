@@ -49,7 +49,8 @@ Here are some things to know:
   - [Bloc Trac](#app/bloctrac) offers the same JSONPath filtering to trigger alerts
 - [XRPLORER](https://xrplorer.com/) - A XRPL explorer focused on forensics and tracing transactions to their acocunts
   and their held XRP and tokens
-- [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org)
+- [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org) 
+  XRPL.org's explorer src: https://github.com/ripple/explorer
 - [XRPScan](https://xrpscan.com) 💫 Block explorer with a [public API](https://docs.xrpscan.com/)
   - 🔗 [Validators](https://xrpscan.com/validators)
   - 🔗 [Amendments](https://xrpscan.com/amendments)
