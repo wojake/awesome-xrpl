@@ -43,7 +43,7 @@ Here are some things to know:
 - [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. src: 
   [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) /
   [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
-- [Ledger Observer](https://observer.xrpldata.com/) - An *visual* exploration of
+- [Ledger Observer](https://observer.xrpldata.com/) - A *visual* exploration of
   an account and it's connections. Originally created by
   [@LedgerExplorer](https://twitter.com/LedgerExplorer). src: [nixer89/ledger-observer](https://github.com/nixer89/ledger-observer)
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
