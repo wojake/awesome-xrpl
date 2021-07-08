@@ -54,7 +54,7 @@ Here are some things to know:
   and their held XRP and tokens
 - [XRPL.org Explorer](https://livenet.xrpl.org) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org)[<kbd>T</kbd>](https://testnet.xrpl.org)[<kbd>D</kbd>](https://devnet.xrpl.org) 
   XRPL.org's explorer src: [ripple/explorer](https://github.com/ripple/explorer)
-- [XRPLF Technical Explorer](https://explorer.xrplf.org) 💫 <a name="tech-explorer"></a> [<kbd>M</kbd>](https://explorer.xrplf.org)[<kbd>T</kbd>](https://explorer-testnet.xrplf.org)[<kbd>H</kbd>](https://hooks-testnet-explorer.xrpl-labs.com) **Beta** A *technical* explorer that is for examining the raw transaction data.
+- [XRPLF Technical Explorer](https://explorer.xrplf.org) 💫 <a name="tech-explorer"></a> [<kbd>M</kbd>](https://explorer.xrplf.org)[<kbd>T</kbd>](https://explorer-testnet.xrplf.org)[<kbd>H</kbd>](https://hooks-testnet-explorer.xrpl-labs.com) *Beta* A *technical* explorer that is for examining the raw transaction data.
   Which can be viewed as structured JSON. This explorer is focused on showing that data, by giving as much space to the data as possible.
   New closed ledgers share the space with pinned ledgers that are opened. You can jump right into a txn, ledger or account 
   by clicking it in the data or by providing it as a path, e.g., `https://explorer.xrplf.org/{whatever}`
