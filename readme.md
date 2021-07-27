@@ -265,6 +265,8 @@ Aliases:
 
 # XRPL Developer Tools
 
+- [XRPL Binary Visualizer](https://richardah.github.io/xrpl-binary-visualizer/) - Decode rippled / XRPL-related hex / JSON / base64.
+
 See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html), the list
 below are shortcuts for convenience.
 
