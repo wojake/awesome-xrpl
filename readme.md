@@ -340,11 +340,18 @@ Application.
 
 #### Connecting a Wallet
 
+##### [Ledger][#ledger.com] Wallets
+
 - [ledgerjs](https://github.com/LedgerHQ/ledgerjs) - The SDK for interacting
   with [Ledger][#ledger.com] wallets.
-- [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
+
+
+##### [XUMM][#xumm.app] Wallets
+
+- [XUMM SDK][#xumm-sdk] - The JavaScript SDK for the [XUMM][#xumm.app] wallet,
+  by [XRPL-Labs](https://github.com/XRPL-Labs/)
   - _See also [Xumm Community](#app/xumm-community)_
-- [xumm4j SDK](https://github.com/francisrosario/xumm4j) - The Java SDK for [XUMM][#xumm.app]
+- [xumm4j](https://github.com/francisrosario/xumm4j) - The Java version of the XUMM SDK for [XUMM][#xumm.app] by [francisrosario](https://github.com/francisrosario)
 
 
 ### Libs/Unverified
