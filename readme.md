@@ -344,7 +344,7 @@ Application.
   with [Ledger][#ledger.com] wallets.
 - [XUMM SDK][#xumm-sdk] - The SDK for the [XUMM][#xumm.app] wallet
   - _See also [Xumm Community](#app/xumm-community)_
-
+- [xumm4j SDK](https://github.com/francisrosario/xumm4j) - The Java SDK for [XUMM][#xumm.app]
 
 
 ### Libs/Unverified
