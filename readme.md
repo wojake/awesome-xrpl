@@ -578,6 +578,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [#ripple-lib]: https://github.com/ripple/ripple-lib
 [#xrpl-labs]: https://xrpl-labs.com/
 [#xumm.app]: https://xumm.app
-[#xumm-sdk]: https://xumm.readme.io
+[#xumm-sdk]: https://github.com/XRPL-Labs/XUMM-SDK
 [#ledger.com]: https://ledger.com
 [#wietse]: https://wietse.com
