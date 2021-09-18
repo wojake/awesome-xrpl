@@ -44,7 +44,7 @@ Here are some things to know:
   [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) /
   [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
 - [Ledger Observer](https://observer.xrpldata.com/) - A *visual* exploration of
-  an account and it's connections. Originally created by
+  an account and \ connections. Originally created by
   [@LedgerExplorer](https://twitter.com/LedgerExplorer). src: [nixer89/ledger-observer](https://github.com/nixer89/ledger-observer)
 - [xrpintel](https://xrpintel.com) 💫 - Live transaction explorer with JSONPath
   filtering. [Public API](https://xrpintel.com/api) by [@DevNullProd](https://twitter.com/devnullprod)
@@ -142,6 +142,8 @@ XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
 - [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
   Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
   Uses [`xrpl-py`][#xrpl-py]
+- [Sologenic XRPL Trading Data](https://github.com/sologenic/xrpl-trading-data/) - Sologenic.org has a public API for accessing DEX trading data. 
+  This is its' documentation.
 
 _See also [XRPL Developer Tools](#xrpl-developer-tools)._
 
@@ -215,7 +217,7 @@ The RPi4 is ARM64 capable and can compile `rippled`, if you'd like to boot up an
 [ARM 64-bit OS](https://ubuntu.com/download/raspberry-pi).
 The RPi4 @ 8GB meets the [minimum requirements](https://xrpl.org/system-requirements.html#minimum-specifications),
 it could meet the [recommended requirements](https://xrpl.org/system-requirements.html#recommended-specifications)
-with a bump to it's RAM to 32GB since it also has 1Gbps networking.
+with a bump to its' RAM to 32GB since it also has 1Gbps networking.
 
 
 - [Running an XRPL Validator on a RPi4](https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4)
@@ -448,7 +450,7 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
 - [UtilityScan](https://twitter.com/UtilityScan) - XRP On Demand Liquidity
   Tracker Running an XRPL Validator.  ([UtilityScan.com](https://utility-scan.com))
 - [**xrp1ntel**](https://twitter.com/xrp1ntel) - XRP Intelligence - By [@devnullprod](https://twitter.com/devnullprod) - 
-  tweets interesting and easily-digestable messages of rolling stats of the XRPL. It's followers, tend to raise the more
+  tweets interesting and easily-digestable messages of rolling stats of the XRPL. Its' followers, tend to raise the more
   interesting of them to top with retweets/likes.
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
@@ -560,7 +562,7 @@ Stuff that didn't really fit anywhere else.
 - [FUD Bingo](https://fudbingo.com) - A bingo card for XRP common misconceptions. Created by [Wietse][#wietse]
 - [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
   [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
-  including it's remaining balance and chart of it's staggered release.
+  including its' remaining balance and chart of its' staggered release.
 
 
 # Contribute
