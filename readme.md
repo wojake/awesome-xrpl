@@ -453,8 +453,7 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
   tweets interesting and easily-digestable messages of rolling stats of the XRPL. Its' followers, tend to raise the more
   interesting of them to top with retweets/likes.
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
-
-
+- [CasinoCoin Alerts](https://twitter.com/CasinoCoinAlert) CasinoCoin (CSC) price swing alerts: movement of more than 10% within an hour, or more than 15% in a day. By [@ForexCadet](https://twitter.com/ForexCadet)
 
 # Apps
 
