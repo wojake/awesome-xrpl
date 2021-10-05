@@ -317,7 +317,7 @@ Libraries to connect & interact with the daemon and the network.
 
 Libraries that are current and production-ready.
 
-- [**ripple-lib**][#ripple-lib] - JavaScript / TypeScript
+- [**xrpl.js**][#xrpl.js] - JavaScript / TypeScript
 - [**xrpl4j**][#xrpl4j] Java _maintained by [XRPLF][#xrplf]_
 - [**xrpl-py**][#xrpl-py]
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
@@ -349,7 +349,7 @@ targeting web standards.
 
 - [nhartner/xrp-vanity-generator](https://github.com/nhartner/xrp-vanity-address) - Using [xrpl4j][#xrpl4j]
 - [WietseWind/xrp-vanity-generator](https://github.com/WietseWind/xrp-vanity-generator) - Using [ripple-keypairs](https://github.com/ripple/ripple-keypairs),
-  part of [ripple-lib](https://github.com/ripple/ripple-lib)
+  part of [xrpl.js](https://github.com/XRPLF/xrpl.js)
 
 
 ### Libs/SDK 
@@ -452,7 +452,7 @@ A classic address - Starts with `r` - is an account on XRPL, with an optional ta
 [**X-address Info**](https://xrpaddress.info) Everything you wanted to know about X-address format.
 
 - [xrpl-tagged-address-codec](https://github.com/xrp-community/xrpl-tagged-address-codec) - js package for encoding/decoding X-address format
-- [ripple-lib][#ripple-lib] - JavaScript/TypeScript library, supports X-address and classic formats
+- [xrpl.js][#xrpl.js] - JavaScript/TypeScript library, supports X-address and classic formats
 - [xrpl4j][#xrpl4j] - Java library, supports X-address and classic formats
 - [xrpl-py][#xrpl-py] - Python library, supports X-address and classic formats
 
@@ -603,7 +603,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [#paystring.org]: https://paystring.org "The Unviersal Payment Pointer"
 [#xrpl4j]: https://github.com/XRPLF/xrpl-py
 [#xrpl-py]: https://github.com/XRPLF/xrpl-py
-[#ripple-lib]: https://github.com/ripple/ripple-lib
+[#xrpl.js]: https://github.com/XRPLF/xrpl.js
 [#xrpl-labs]: https://xrpl-labs.com/
 [#xumm.app]: https://xumm.app
 [#xumm-sdk]: https://github.com/XRPL-Labs/XUMM-SDK
