@@ -458,7 +458,7 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
 
 # Apps
 
-Apps that have integration or involve XRPL in some way.
+Applications that integrate or involve the XRPL.
 
 ## Software as a Service (SaaS)
 
@@ -476,8 +476,11 @@ Apps that have integration or involve XRPL in some way.
 - [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by leveraging the XRPL
   and [issued currencies](https://xrpl.org/issued-currencies-overview.html).
 
+## Ideas
+- [XRPL Ideas (GitHub Discussions)](https://github.com/intelliot/xrpl-ideas/discussions) Forum where you can share XRPL ideas, and read ideas by others.
 
-# Wallets/Non-Custodial
+
+# Wallets (Non-Custodial)
 
 - 🌟[**XUMM**][#xumm.app] 📱 _Pronounced "sum"_ - XUMM is a self-custodial wallet for
   Android & iOS, built by [XRPL-Labs][#xrpl-labs]. XUMM can hold many accounts,
@@ -490,7 +493,7 @@ Apps that have integration or involve XRPL in some way.
   user's XUMM Wallet. For power users, XUMM will offer a Pro subscription
   service that will enable additional functionality, like push notifications on
   all your wallet's activity.
-- [**Ledger**][#ledger.com] Ledger is a hardware wallet manufacturer. Their
+- [**Ledger**][#ledger.com] - Ledger is a hardware wallet manufacturer. Their
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
 - [**Solo Wallet**](https://www.sologenic.com/ecosystem/solo-wallet) <a name="non-custodial/solo-wallet"></a> 📱
@@ -502,9 +505,9 @@ Apps that have integration or involve XRPL in some way.
 
 # PayString
 
-Relating to [PayString][#paystring.org]. PayString is agnostic to implementation and is an easy protocol to adopt for dynamic and authorized wallet responses.
+[PayString][#paystring.org] is ledger-agnostic and is an easy protocol to adopt for dynamic and authorized wallet responses.
 
-- [payid-lambda](https://github.com/xpring-eng/payid-lambda) An AWS Lambda for serving up a PayString
+- [payid-lambda](https://github.com/xpring-eng/payid-lambda) An AWS Lambda for serving up a PayString.
 - [paystring-cli](https://github.com/PayString/paystring-cli) Query a PayString from the commandline.
 
 # Interledger
