@@ -390,7 +390,7 @@ Application.
 **Note**: Unverified or deprecated libaries. If they're deprecated, an alternative is included
 
 - [federation-php](https://github.com/ripple-unmaintained/federation-php) - _No Maintainer_ - 
-  Simple PHP federation endpoint with a static JSON dataset
+  Simple PHP federation endpoint with a static JSON dataset. _No alternative known_
 
 
 # Code/App
