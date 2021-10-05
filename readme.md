@@ -103,6 +103,22 @@ Issuer:
 
 - See [Sologenic.org](#dex-ui/sologenic.org), a XRPL DEX UI that has supports popular non-custodial wallets or you can use the (_non-custodial_) [Solo-Wallet](#non-custodial/solo-wallet).
 
+## More Coins!! We need Help Listing them all!
+
+We recently had a great amount of interest in issuing tokens through tools and services, like [XUMM.community](https://xumm.community)'s token issuer and now xApp 
+through the [XUMM Wallet](https://xumm.app).
+
+One resource made by a community member, ([@gaget78](https://twitter.com/gadget78)) is a spreadsheet of tokens that contain a lot of useful information, and a credit-like rating.
+
+Some basic things that are desirable, which also align with requirements [for being listed within XUMM.app](https://support.xumm.app/hc/en-us/articles/4405548600466-How-do-I-get-an-issued-token-listed-in-XUMM-display-name-icon-), and are also listed at the end of [XUMM.Community Token Creator xApp](https://xumm.app/detect/xapp:nixer.tokencreate) are: 
+
+- Issuing account is "blackholed" ([the root key is removed](https://xrpl.org/disable-master-key-pair.html)
+- There's a known team (non-anoymous developers) behind the project
+
+### XRPL Token Ratings
+
+- [Gadget78's Spreadsheet](https://gadget78.co.uk) - A spreadsheet that started as a list of tokens. Now offers much more, including a rating and information not available directly through the XRPL; meticulously gathered and put together through Gadget78, and the twitter community of researchers that provide them information.
+
 # XRPL DEX
 
 Related to the built-in [DEX][#xrpldex]. 
