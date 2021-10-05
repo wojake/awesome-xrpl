@@ -112,7 +112,7 @@ One resource made by a community member, ([@gaget78](https://twitter.com/gadget7
 
 Some basic things that are desirable, which also align with requirements [for being listed within XUMM.app](https://support.xumm.app/hc/en-us/articles/4405548600466-How-do-I-get-an-issued-token-listed-in-XUMM-display-name-icon-), and are also listed at the end of [XUMM.Community Token Creator xApp](https://xumm.app/detect/xapp:nixer.tokencreate) are: 
 
-- Issuing account is "blackholed" ([the root key is removed](https://xrpl.org/disable-master-key-pair.html)
+- Issuing account is "blackholed" ([the root key is removed](https://xrpl.org/disable-master-key-pair.html))
 - There's a known team (non-anoymous developers) behind the project
 
 ### XRPL Token Ratings
