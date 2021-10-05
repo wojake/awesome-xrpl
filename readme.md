@@ -468,7 +468,7 @@ Apps that have integration or involve XRPL in some way.
   filter wizard. _Formerly known as ZerpTracker._
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion) There's a 
   corresponding 📱 App that requires registration here.
-- [XRPhone](https://xrphone.app): Pay merchant invoices over the phone using XRP. [GitHub](https://github.com/jremi/xrphone). 
+- [XRPhone](https://xrphone.app): Pay merchant invoices over the phone using XRP. [Source](https://github.com/jremi/xrphone)
 - [XUMM.community](https://xumm.community/) 🪄✨ <kbd>M</kbd><kbd>T</kbd>
   <a name="app/xumm-community"></a> - Xumm Community is a useful wizard/tool that compliments the 
   XUMM wallet
