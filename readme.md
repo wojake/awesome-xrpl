@@ -317,7 +317,7 @@ Libraries to connect & interact with the daemon and the network.
 
 Libraries that are current and production-ready.
 
-- [**xrpl.js**][#xrpl.js] - JavaScript / TypeScript
+- [**xrpl.js**][#xrpl.js] - JavaScript / TypeScript _maintained by [XRPLF][#xrplf]_
 - [**xrpl4j**][#xrpl4j] Java _maintained by [XRPLF][#xrplf]_
 - [**xrpl-py**][#xrpl-py]
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
