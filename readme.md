@@ -173,6 +173,7 @@ Each of these explorers show all validators for the network.
   validator registry.
 - [XRPL.org Explorer](https://livenet.xrpl.org/network/validators) 💫 [<kbd>M</kbd>](https://livenet.xrpl.org/network/validators)[<kbd>T</kbd>](https://testnet.xrpl.org/network/validators)[<kbd>D</kbd>](https://devnet.xrpl.org/network/validators)- The
   XRPL.org Explorer's Network Validators.
+- [OtterServices' Validator Guide](https://github.com/OtterServices/RippledValidatorGuide/) Explains from start to finish if you're not even running a node.
 
 # ODL
 [**O**n **D**emand **L**iquidity is a product offered through RippleNet.](https://ripple.com/ripplenet/on-demand-liquidity/).
@@ -254,6 +255,11 @@ Keep up with new releases and amendment proposals, without the noise.
 - [ripple-server mailing list](https://groups.google.com/forum/#!forum/ripple-server/) This email list announces releases, and other info 
   for any [node](https://xrpl.org/rippled-server-modes.html) operator. _Old-school_, but effective for widespread announcements!
 
+# I want to promote my node to validator 🔧
+
+Check out: 
+- [OtterServices' Validator Guide](https://github.com/OtterServices/RippledValidatorGuide/) Explains from start to finish if you're not even running a node.
+- [XRPL.org Validator Info](https://xrpl.org/run-rippled-as-a-validator.html) The necessary additional steps to promote a node you're already running to a validator.
 
 
 # I need a node to connect to 🙇
