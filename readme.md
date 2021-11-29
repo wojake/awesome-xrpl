@@ -77,34 +77,6 @@ All [( issued currencies || tokens )](https://xrpl.org/issued-currencies-overvie
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
   token list.
 
-## Casino Coin **`$CSC`**
-
-> ***Against all odds.*** *To provide fast and secure solutions for the regulated gaming industry with both players and operators in mind.*
-
-[♠️ casinocoin.im](https://casinocoin.im)
-
-Issuer:
-[Bithomp `~CasinoCoin`](https://bithomp.com/explorer/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr) | [XRPScan _CasinoCoin_](https://xrpscan.com/account/rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr)
-
-- [CasinoCoin.info](https://casinocoin.info/) - Everything you wanted to know
-  about CSC. Has quickly grown to a great source for analyzing liquidity
-  of the CSC token on the [XRPL DEX][#xrpldex], and all info relating to CSC.
-  Several tools relating to liquidity are available. It also breaks down all
-  DEX orders relating to CSC.
-
-## Sologenic **`$SOLO`**
-
-> *Facilitates investing and trading between crypto and non-blockchain assets such as stocks, ETFs, and commodities from top 30+ global stock exchanges.*
-
-[🏠 sologenic.com](https://sologenic.com)
-
-Issuer:
-[Bithomp `~SOLO`](https://bithomp.com/explorer/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz) | [XRPScan _Sologenic_](https://xrpscan.com/account/rsoLo2S1kiGeCcn6hCUXVrCpGMWLrRrLZz)
-
-- See [Sologenic.org](#dex-ui/sologenic.org), a XRPL DEX UI that has supports popular non-custodial wallets or you can use the (_non-custodial_) [Solo-Wallet](#non-custodial/solo-wallet).
-
-## More Coins!! We need Help Listing them all!
-
 We recently had a great amount of interest in issuing tokens through tools and services, like [XUMM.community](https://xumm.community)'s token issuer and now xApp 
 through the [XUMM Wallet](https://xumm.app).
 
