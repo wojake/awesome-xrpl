@@ -108,6 +108,9 @@ User Interfaces to the DEX. All transactions are signed by your [non-custodial w
 - [XRP Tookit](https://www.xrptoolkit.com) 🪄✨ [<kbd>M</kbd>](https://xrptoolkit.com)[<kbd>T</kbd>](https://test.xrptoolkit.com)
   The wizard makes it easy for *anyone* who's never sent an XRP transaction to do their first one, using your wallet to sign!
   This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
+- [XRP Trader](https://www.xrptrader.net) 🪄✨ This site visualizes the XRPL's decentralized exchange in a clean and informative way similar to coinmarketcap,
+  It is usually used to overlook the current market price of issued currencies in the XRPL ecosystem without needing to "log-in" to your wallet and without the need to enter a token's credentials, `currency code & issuer address`, the simplistic design is what sets it apart to other similar sites like Sologenic.
+  
 
 ## DEX Explorer
 
