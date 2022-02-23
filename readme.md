@@ -76,6 +76,7 @@ All [( issued currencies || tokens )](https://xrpl.org/issued-currencies-overvie
   steps you through the process.
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
   token list.
+- [OnTheDEX.live](https://onthedex.live) 💫 - Live token data for all XRP Ledger tokens. View price charts, block explorers, volume, market cap and other metrics for free. By [@ForexCadet](https://twitter.com/ForexCadet).
 
 We recently had a great amount of interest in issuing tokens through tools and services, like [XUMM.community](https://xumm.community)'s token issuer and now xApp 
 through the [XUMM Wallet](https://xumm.app).
