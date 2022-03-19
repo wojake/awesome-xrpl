@@ -6,20 +6,12 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+Ensure your issue & pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- If your changes add new sources/materials, please ensure your materials are understandable, safe for work, and reliable.
+- If your changes remove sources/materials, please ensure you've deleted the related materials only. Do not remove or edit any other materials without a good reason.
+- If your changes move sources/materials to another section, please ensure you have a good reason to do so.
 
-Thank you for your suggestions!
+If you want to add or remove anything, it's best to state your reason.    
 
-
-## Updating your PR
-
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+We appreciate all your contribution and concerns towards the awesome-xrpl list, we accept *any* contribution whatsoever to maintain this large list which requires a whole community to maintain. Thank you.
