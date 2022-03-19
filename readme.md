@@ -346,9 +346,12 @@ Application.
 
 ##### [XUMM][#xumm.app] Wallets
 
-- [XUMM SDK][#xumm-sdk] - The JavaScript SDK for the [XUMM][#xumm.app] wallet,
+- [XUMM SDK JS/TS][#xumm-sdk] - The TypeScript/JavaScript SDK for the [XUMM][#xumm.app] wallet,
   by [XRPL-Labs](https://github.com/XRPL-Labs/)
   - _See also [Xumm Community](#app/xumm-community)_
+- [XUMM SDK Python](https://pypi.org/project/xumm-sdk-py/) - The Python version of the XUMM SDK for [XUMM][#xumm.app]
+- [XUMM SDK PHP](https://packagist.org/packages/xrpl/xumm-sdk-php) - The PHP version of the XUMM SDK for [XUMM][#xumm.app]
+- [XUMM.NET.SDK](https://www.nuget.org/packages/XUMM.NET.SDK) - The .NET/C# version of the XUMM SDK for [XUMM][#xumm.app]
 - [xumm4j](https://github.com/francisrosario/xumm4j) - The Java version of the XUMM SDK for [XUMM][#xumm.app] by [francisrosario](https://github.com/francisrosario)
 
 
