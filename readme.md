@@ -300,6 +300,9 @@ Libraries that are current and production-ready.
 - [**xrpl-py**][#xrpl-py]
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
   Python _maintained by [XRPLF][#xrplf]_
+- [**xrpl-client**](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect: setup one connection and the lib. will make sure you get data back from available endpoints. This is the lib that powers e.g. XUMM Wallet XRPL connectivity.
+- [**xrpl-accountlib**](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic, Secret Numbers & raw external signers (e.g. HSMs). This is the lib that powers XUMM Wallet keypair interaction.
+- [**xrpl-txdata**](https://www.npmjs.com/package/xrpl-txdata): Javascript/Typescript nodejs lib. to reliably fetch a single transaction by hash. If the transaction isn't found, the lib. will monitor the ledger for a transactions still to be included (or time out), using a single Promise. Results are returned with parsed balance mutation object based on tx metadata.
 
 #### Libs/YMMV
 
@@ -313,13 +316,9 @@ targeting web standards.
 
 </details>
 
-
 - [xrbp](https://github.com/DevNullProd/XRBP) - Ruby :: [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
   <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
-- [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
-- [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
-
 
 ### Libs/Benchmarks
 
