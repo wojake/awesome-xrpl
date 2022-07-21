@@ -39,10 +39,7 @@ Here are some things to know:
 
 # XRPL Explorers
 
-- [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com) A block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
-- [Ledger.Exposed](https://ledger.exposed) -  Live stats and insights in the XRP distribution, ownership, escrows and the flow of funds. src: 
-  [frontend](https://github.com/WietseWind/XRP-Stats-Frontend) /
-  [backend](https://github.com/WietseWind/XRP-Ledger-to-MongoDB)
+- [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com)[<kbd>H</kbd>](https://hooks.bithomp.com) block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
 - [Ledger Observer](https://observer.xrpldata.com/) - A *visual* exploration of
   an account and \ connections. Originally created by
   [@LedgerExplorer](https://twitter.com/LedgerExplorer). src: [nixer89/ledger-observer](https://github.com/nixer89/ledger-observer)
@@ -76,12 +73,12 @@ All [( issued currencies || tokens )](https://xrpl.org/issued-currencies-overvie
   steps you through the process.
 - [XRPL.org Tokens](https://livenet.xrpl.org/tokens) - The XRPL.org explorer
   token list.
-- [OnTheDEX.live](https://onthedex.live) 💫 - Live token data for all XRP Ledger tokens. View price charts, block explorers, volume, market cap and other metrics for free. By [@ForexCadet](https://twitter.com/ForexCadet).
+- [OnTheDEX.live](https://onthedex.live) 💫 - Live token data for all XRP Ledger tokens. View price charts, block explorers, volume, market cap and other metrics for free. By           [@ForexCadet](https://twitter.com/ForexCadet).
 
 We recently had a great amount of interest in issuing tokens through tools and services, like [XUMM.community](https://xumm.community)'s token issuer and now xApp 
 through the [XUMM Wallet](https://xumm.app).
 
-One resource made by a community member, ([@gaget78](https://twitter.com/gadget78)) is a spreadsheet of tokens that contain a lot of useful information, and a credit-like rating.
+One resource made by a community member, ([@gadget78](https://twitter.com/gadget78)) is a spreadsheet of tokens that contain a lot of useful information, and a credit-like rating.
 
 Some basic things that are desirable, which also align with requirements [for being listed within XUMM.app](https://support.xumm.app/hc/en-us/articles/4405548600466-How-do-I-get-an-issued-token-listed-in-XUMM-display-name-icon-), and are also listed at the end of [XUMM.Community Token Creator xApp](https://xumm.app/detect/xapp:nixer.tokencreate) are: 
 
@@ -91,6 +88,7 @@ Some basic things that are desirable, which also align with requirements [for be
 ### XRPL Token Ratings
 
 - [Gadget78's Spreadsheet](https://gadget78.co.uk) - A spreadsheet that started as a list of tokens. Now offers much more, including a rating and information not available directly through the XRPL; meticulously gathered and put together through Gadget78, and the twitter community of researchers that provide them information.
+- [XRPLF's self-assesstment](https://foundation.xrpl.org/token-assessment-framework/browse-token-self-assessments/) - A self-assesstment framework that consists of tokens' data, it is information that the issuer has written themselves.
 
 # XRPL DEX
 
@@ -109,6 +107,7 @@ User Interfaces to the DEX. All transactions are signed by your [non-custodial w
 - [XRP Tookit](https://www.xrptoolkit.com) 🪄✨ [<kbd>M</kbd>](https://xrptoolkit.com)[<kbd>T</kbd>](https://test.xrptoolkit.com)
   The wizard makes it easy for *anyone* who's never sent an XRP transaction to do their first one, using your wallet to sign!
   This tool lets you configure different aspects of any XRPL Wallet/Account. There's also a built-in trading UI.
+- [XDEX](https://xdex.com) - XDEX provides clean and informative DEX-related information, it presents market data like no other interface.
 
 ## DEX Explorer
 
@@ -301,6 +300,9 @@ Libraries that are current and production-ready.
 - [**xrpl-py**][#xrpl-py]
   [![xrpl-py Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
   Python _maintained by [XRPLF][#xrplf]_
+- [**xrpl-client**](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect: setup one connection and the lib. will make sure you get data back from available endpoints. This is the lib that powers e.g. XUMM Wallet XRPL connectivity.
+- [**xrpl-accountlib**](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic, Secret Numbers & raw external signers (e.g. HSMs). This is the lib that powers XUMM Wallet keypair interaction.
+- [**xrpl-txdata**](https://www.npmjs.com/package/xrpl-txdata): Javascript/Typescript nodejs lib. to reliably fetch a single transaction by hash. If the transaction isn't found, the lib. will monitor the ledger for a transactions still to be included (or time out), using a single Promise. Results are returned with parsed balance mutation object based on tx metadata.
 
 #### Libs/YMMV
 
@@ -314,13 +316,9 @@ targeting web standards.
 
 </details>
 
-
 - [xrbp](https://github.com/DevNullProd/XRBP) - Ruby :: [rubydoc](https://www.rubydoc.info/gems/xrbp)
 - [node-red-contrib-xrpl](https://github.com/xrpinnovations/node-red-contrib-xrpl)
   <a name="code/node-red-contrib-xrpl"></a> - [Node-RED](https://nodered.org) Modules for XRPL
-- [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
-- [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
-
 
 ### Libs/Benchmarks
 
@@ -347,9 +345,12 @@ Application.
 
 ##### [XUMM][#xumm.app] Wallets
 
-- [XUMM SDK][#xumm-sdk] - The JavaScript SDK for the [XUMM][#xumm.app] wallet,
+- [XUMM SDK JS/TS][#xumm-sdk] - The TypeScript/JavaScript SDK for the [XUMM][#xumm.app] wallet,
   by [XRPL-Labs](https://github.com/XRPL-Labs/)
   - _See also [Xumm Community](#app/xumm-community)_
+- [XUMM SDK Python](https://pypi.org/project/xumm-sdk-py/) - The Python version of the XUMM SDK for [XUMM][#xumm.app]
+- [XUMM SDK PHP](https://packagist.org/packages/xrpl/xumm-sdk-php) - The PHP version of the XUMM SDK for [XUMM][#xumm.app]
+- [XUMM.NET.SDK](https://www.nuget.org/packages/XUMM.NET.SDK) - The .NET/C# version of the XUMM SDK for [XUMM][#xumm.app]
 - [xumm4j](https://github.com/francisrosario/xumm4j) - The Java version of the XUMM SDK for [XUMM][#xumm.app] by [francisrosario](https://github.com/francisrosario)
 
 
@@ -363,6 +364,7 @@ Application.
 - [ripple-haskell](https://github.com/singpolyma/ripple-haskell/): Haskell
 - [RippleKit](https://github.com/xasos/RippleKit): Swift
 - [rubblelabs/ripple](https://github.com/rubblelabs/ripple): Go
+- [xrpl-rust](https://github.com/sephynox/xrpl-rust): Rust
 
 ### Libs/Deprecated
 
@@ -570,14 +572,14 @@ Stuff that didn't really fit anywhere else.
 
 
 # Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Want to add or remove something from the awesome list?    
+We welcome contributors with open arms, read the [contribution guidelines](contributing.md) first.
 
 
 
 
 [#xrplf]: https://github.com/xrplf
-[#xrplf.org]: https://xrplf.org
+[#xrplf.org]: https://foundation.xrpl.org
 [#xrpldex]: https://xrpl.org/decentralized-exchange.html
 [#paystring.org]: https://paystring.org "The Unviersal Payment Pointer"
 [#xrpl4j]: https://github.com/XRPLF/xrpl-py
