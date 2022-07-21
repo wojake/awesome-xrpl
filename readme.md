@@ -132,6 +132,7 @@ XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
   Uses [`xrpl-py`][#xrpl-py]
 - [Sologenic XRPL Trading Data](https://github.com/sologenic/xrpl-trading-data/) - Sologenic.org has a public API for accessing DEX trading data. 
   This is its' documentation.
+- [API for Token Price Metrics from OnTheDEX.live](https://github.com/OnTheDEX/xrpledger-token-data-api) - Get accurate and up-to-date token trading data for all tokens traded on the XRP Ledger.  Includes live (via websocket) and static (via REST) API for price, volume and other metrics, plus OHLC data for charting use.
 
 _See also [XRPL Developer Tools](#xrpl-developer-tools)._
 
