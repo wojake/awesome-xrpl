@@ -504,7 +504,7 @@ Applications that integrate or involve the XRPL.
   iOS/Android. [Unverified Source](https://github.com/sologenic/sologenic-expo-wallet)
 - [**Trezor**](https://trezor.io) - Trezor wallet, supports XRP.
 - [**Paper Account Generator**](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side. By [Wietse][#wietse]
-- [**Trustline**](https://trustline.co) 📱 <kbd>T</kbd> - A non-custodial stablecoin wallet for Android and iOS. The app runs on the Trustline Credit Network, which offers stable, fast, low-cost payments. The Aurei (AUR) stablecoin is the first trustless asset on the XRPL besides XRP.
+- [**Trustline**](https://trustline.co) 📱 <kbd>T</kbd> - The XRPL implementation of [Linqto](https://www.linqto.com/).
 
 
 # PayString
