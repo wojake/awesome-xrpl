@@ -94,8 +94,8 @@ Some basic things that are desirable, which also align with requirements [for be
 
 Related to the built-in [DEX][#xrpldex]. 
 
-> 💡 The DEX unlocks [auto-bridging](https://xrpl.org/autobridging.html), and [path finding](https://xrpl.org/paths.html).
-> Chatbot assistant for the XRP Ledger [XRPL-GPT](https://xrpl-gpt.fly.dev/)
+-💡 The DEX unlocks [auto-bridging](https://xrpl.org/autobridging.html), and [path finding](https://xrpl.org/paths.html).
+- Chatbot assistant for the XRP Ledger [XRPL-GPT](https://xrpl-gpt.fly.dev/)
 
 ## DEX UI
 
