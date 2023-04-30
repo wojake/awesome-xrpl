@@ -265,6 +265,7 @@ Aliases:
 - [XRPL Binary Visualizer](https://richardah.github.io/xrpl-binary-visualizer/) - Decode rippled / XRPL-related hex / JSON / base64.
 - [xrp.fans](https://xrp.fans/) _[Source](https://github.com/WietseWind/rippled-ws-client-dashboard)_- Dashboard Debugging & Development for the XRPL
 - [XRPL Composer](https://graph.trustline.co) 💫 <kbd>T</kbd> - Create, visualize, and validate complex payment paths on the XRP Ledger
+- [XRPL Attendify](https://github.com/JustAnotherDevv/AttendifyXRPL) - Mint, distribute NFTs and verify attendance at a wide range of events and activities. Includes example implementation for ExpressJS API
 
 See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html), the list
 below are shortcuts for convenience.
