@@ -111,10 +111,11 @@ User Interfaces to the DEX. All transactions are signed by your [non-custodial w
 
 ## DEX Explorer
 
-- [Gatehub Markets](https://gatehub.net/markets/) - Gatehub is a gateway and issuer of digital assets like 
+- [GateHub Markets](https://gatehub.net/markets/) - GateHub is a gateway and issuer of digital assets like 
   Bitcoin, ETH, which are then traded on the DEX. This explorer is for their issuances.
-  [Gatehub](https://gatehub.net) is also a custodial wallet, as it is a DEX; you're free to trade in their assets without
-  needing to create a gatehub account.
+  [GateHub](https://gatehub.net) is also a custodial wallet, as it is a DEX; you're free to trade in their assets without
+  needing to create a GateHub account.
+- [XPMarket](https://xpmarket.com/) - XPMarket provides a variety of XRPL tools and tracks XRPL tokens, including metrics like prices, market cap, trust lines, and holders.
 
 ## DEX Visualizer
 
@@ -127,6 +128,7 @@ Tools to visualize trades on the DEX.
 
 XRPL Dev Tools pertaining to the [DEX](#xrpl-dex).
 
+- [XRPL-Persist-Price-Oracle](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) - Open source code that persists price information on-ledger, providing a price feed.
 - [dexter](https://github.com/hammertoe/dexter) - A tool for creating orders on the XRPL DEX.
   Created by [@hammertoe](https://twitter.com/hammertoe) during the Ripple Innovate hackathon. 
   Uses [`xrpl-py`][#xrpl-py]
