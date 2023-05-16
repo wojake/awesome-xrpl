@@ -574,6 +574,8 @@ Stuff that didn't really fit anywhere else.
 - [Jed Balance](https://jed.tequ.dev/) - A stats page for analyzing the
   [`tacostand`](https://bithomp.com/explorer/tacostand) settlement wallet,
   including its' remaining balance and chart of its' staggered release.
+- [Food Trust Simulator](https://beta.foodtrustsimulator.app/) - A game accessible to all, to illustrate the interactions in food supply chain by making blockchain friendly.
+
 
 
 # Contribute
