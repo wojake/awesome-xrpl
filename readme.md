@@ -39,6 +39,7 @@ Here are some things to know:
 
 # XRPL Explorers
 
+- [XRPLWin](https://xrplwin.com) XRP Ledger and Xahau explorer, Hooks explorer, metrics, and analytics using a XWA backend that is synchronized live with the XRPL and Xahau.
 - [Bithomp](https://bithomp.com) [<kbd>M</kbd>](https://bithomp.com)[<kbd>T</kbd>](https://test.bithomp.com)[<kbd>H</kbd>](https://hooks.bithomp.com) block explorer. Tailored for viewing accounts, you can log in with a hardware wallet.
 - [Ledger Observer](https://observer.xrpldata.com/) - A *visual* exploration of
   an account and \ connections. Originally created by
