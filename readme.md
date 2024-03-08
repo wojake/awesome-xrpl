@@ -76,6 +76,8 @@ All [( issued currencies || tokens )](https://xrpl.org/issued-currencies-overvie
   token list.
 - [OnTheDEX.live](https://onthedex.live) 💫 - Live token data for all XRP Ledger tokens. View price charts, block explorers, volume, market cap and other metrics for free. By           [@ForexCadet](https://twitter.com/ForexCadet).
 
+- [XRPL.to](https://xrpl.to/) 🌴🌞 - Offers extensive information about the XRP Ledger (XRPL), including real-time, detailed statistics and insights. It covers a range of data such as tokens, wallet addresses, offers, trustlines, trading activities, and overall transaction volume. The platform also provides an XRPL DEX interface, complete with a free API, which allows for easy access to data about XRPL tokens.
+
 We recently had a great amount of interest in issuing tokens through tools and services, like [XUMM.community](https://xumm.community)'s token issuer and now xApp 
 through the [XUMM Wallet](https://xumm.app).
 
