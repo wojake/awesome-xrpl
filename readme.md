@@ -458,6 +458,14 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
   interesting of them to top with retweets/likes.
 - [XRP Updates Bot](https://twitter.com/OdlBot) Tweets XRP ODL stats twice/day (8am/8pm ET), price action updates every 4hr (and when support/resistance met) and news as it happens. Created by [@xrpartisan](https://twitter.com/xrpartisan)
 
+
+# Discord Bots
+
+Discord Bots utilizing or providing features using the XRPL.
+
+- [SpaceWatch](https://spacewatch.app) The #1 solution for NFT & Token holder verification and role gating in Discord for XRP Ledger
+
+
 ## [CasinoCoin](#casino-coin-csc)
 
 - [CasinoCoin Alerts](https://twitter.com/CasinoCoinAlert) CasinoCoin (CSC) price swing alerts: movement of more than 10% within an hour, or more than 15% in a day. By [@ForexCadet](https://twitter.com/ForexCadet).
