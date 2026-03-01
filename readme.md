@@ -467,6 +467,10 @@ Twitter bots that crunch numbers. Updates are frequent and when certain threshol
 
 Applications that integrate or involve the XRPL.
 
+## Commerce & Verification
+
+- [InsumerAPI](https://insumermodel.com/developers/) - On-chain verification API for XRPL commerce. Verify native XRP, trust line tokens (RLUSD, USDC, any issued currency), and NFT ownership across 25 REST endpoints. Returns ECDSA-signed booleans, not raw balances. Supports AI agent SDKs (MCP, LangChain, GPT). [Docs](https://insumermodel.com/developers/) · [OpenAPI Spec](https://insumermodel.com/openapi.yaml) · [Blog](https://insumermodel.com/blog/xrpl-commerce-verification-trust-lines-rlusd.html)
+
 ## Software as a Service (SaaS)
 
 - [Block Trac](https://blocktr.ac) <a name="app/bloctrac"></a>
