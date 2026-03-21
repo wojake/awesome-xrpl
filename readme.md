@@ -486,7 +486,7 @@ Applications that integrate or involve the XRPL.
 
 ## Marketplaces
 
-- [Meridian](https://meridianmarket.xyz) <kbd>T</kbd> - Decentralized marketplace for real-world assets with XRPL-native escrow (crypto conditions), NFTokens for provenance, and Multi-Purpose Tokens for fractional ownership. Non-custodial — funds go directly between buyer and seller. [Source](https://github.com/Wawa-Meridian/xrpl-marketplace)
+- [Meridian](https://meridianmarket.xyz) <kbd>T</kbd> - Decentralized marketplace for real-world assets with XRPL-native escrow (crypto conditions), NFTokens for provenance, and Multi-Purpose Tokens for fractional ownership. Non-custodial — funds go directly between buyer and seller.
 
 ## Ideas
 - [XRPL Ideas (GitHub Discussions)](https://github.com/intelliot/xrpl-ideas/discussions) Forum where you can share XRPL ideas, and read ideas by others.
