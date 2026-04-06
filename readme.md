@@ -479,6 +479,7 @@ Applications that integrate or involve the XRPL.
 - [XUMM.community](https://xumm.community/) 🪄✨ <kbd>M</kbd><kbd>T</kbd>
   <a name="app/xumm-community"></a> - Xumm Community is a useful wizard/tool that compliments the 
   XUMM wallet
+- [BitcoinVN](https://bitcoinvn.io): Instant non-custodial crypto swaps with XRP support since 2014, no account required for basic swaps.
 
 ## Mobile
 - [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by leveraging the XRPL
