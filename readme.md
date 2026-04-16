@@ -557,6 +557,12 @@ These are networks that run in parallel to the XRPL, the XRP input into the netw
   [state connectors](https://docs.flare.network/en/state-connector).
   - 🔗 [FXRP Whitepaper](https://drive.google.com/file/d/1ftqaiUgU7-57KEFzYQ807h9pwUzsE84Y/view) 
   - 🔗 [All Whitepapers](https://flare.xyz/whitepapers/)
+- [DinoSecurities](https://www.dinosecurities.com) - A Solana-native protocol for tokenizing regulated securities (equity, debt, funds, LLC interests)
+  with on-chain compliance via Token-2022 transfer hooks, atomic DvP settlement, and per-mint DAO governance.
+  Payments accepted in USDC, with wXRP support on the roadmap — bringing XRP liquidity into regulated on-chain
+  capital markets on Solana.
+  - 🔗 [GitHub](https://github.com/DinoSecurities/DinoSecurities)
+  - 🔗 [Twitter](https://x.com/SecuritiesDino)
 
 
 
