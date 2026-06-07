@@ -479,6 +479,7 @@ Applications that integrate or involve the XRPL.
 - [XUMM.community](https://xumm.community/) 🪄✨ <kbd>M</kbd><kbd>T</kbd>
   <a name="app/xumm-community"></a> - Xumm Community is a useful wizard/tool that compliments the 
   XUMM wallet
+- [XRPLHub.io](https://www.xrplhub.io) - On-chain credit standard for XRPL. XRPLScore™ (300-850 rating from public ledger data), 35 done-for-you XRPL transaction services with Xaman one-swipe signing, and AI-reviewed community grants.
 
 ## Mobile
 - [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by leveraging the XRPL
