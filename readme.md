@@ -599,3 +599,19 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 [#xumm-sdk]: https://github.com/XRPL-Labs/XUMM-SDK
 [#ledger.com]: https://ledger.com
 [#wietse]: https://wietse.com
+
+
+# AI Agent Infrastructure on XRPL
+
+Tools and infrastructure for autonomous AI agents operating on the XRP Ledger.
+
+- [SqueezeOS](https://github.com/Timwal78/SqueezeOS) — 33-tool institutional trading MCP server. x402 payment gating via XRPL/RLUSD. Short-squeeze detection, FTD cycle analysis, Schwab/Polygon/Alpaca APIs. Live MCP at squeezeos-api.onrender.com/mcp.
+- [Ghost Layer](https://github.com/Timwal78/ghost-layer) — Dual-chain XRPL/Base toll gateway for autonomous AI agents. URIToken + Hooks on Xahau, dNFT on Base, x402 HTTP-402 protocol. Agent Passport loyalty tiers. Zero custody.
+- [proof402-middleware / @relayos/mcp-paywall](https://github.com/Timwal78/proof402-middleware) — Drop-in x402 HTTP-402 paywall middleware for MCP servers. XRPL/RLUSD native settlement. Zero API keys. npm: `@relayos/mcp-paywall`.
+- [SML XRPL Fee Forge](https://github.com/Timwal78/SML-XRPL-FEE-FORGE) — Institutional XRPL fee engine. TipHawk (automated tip routing), RLUSD Rails, Copy-Trader, Launchpad. Built for AI agents on the XRP Ledger.
+- [XahPay](https://github.com/Timwal78/xahpay) — XAH (Xahau network) and XRPL native payment layer for AI agent micropayments. Hooks-enabled, RLUSD stablecoin support, x402-compatible receipts.
+- [CRAWLTOLL](https://github.com/Timwal78/crawltoll) — x402 paywall for AI web crawlers. XRPL/RLUSD settlement per-crawl. Turn AI scraping into revenue. No custody.
+- [Tipmaster](https://github.com/Timwal78/tipmaster-pp-cli) — Farcaster RLUSD tipping bot. On-chain tamper-evident receipts via Ghost Layer XRPL settlement rails.
+- [ZeroQuery Protocol](https://github.com/Timwal78/zeroquery-protocol) — Proof-of-Intent open protocol for AI agent identity. x402-compatible, no OAuth. Agents declare and sign intent before executing XRPL payments.
+
+> All built by [@Timwal78](https://github.com/Timwal78) / ScriptMasterLabs — Service-Disabled Veteran (SDVOSB).
