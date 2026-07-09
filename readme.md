@@ -479,6 +479,7 @@ Applications that integrate or involve the XRPL.
 - [XUMM.community](https://xumm.community/) 🪄✨ <kbd>M</kbd><kbd>T</kbd>
   <a name="app/xumm-community"></a> - Xumm Community is a useful wizard/tool that compliments the 
   XUMM wallet
+- [SqueezeOS](https://github.com/Timwal78/squeezeos-api) - Institutional market-intelligence MCP/API service from Script Master Labs (squeeze detection, options flow, IWM 0DTE signals) with x402/HTTP-402 micropayment-gated endpoints settling on XRPL and Base. Free-tier tools with no auth. `squeezeos-api.onrender.com/mcp`
 
 ## Mobile
 - [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by leveraging the XRPL
