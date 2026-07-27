@@ -469,6 +469,10 @@ Applications that integrate or involve the XRPL.
 
 ## Software as a Service (SaaS)
 
+- [Pulse Network](https://pulse.theaslangroupllc.com): 958 pay-per-query data API endpoints (market data, token safety, macro,
+  research) that AI agents pay via the x402 protocol — XRP and RLUSD accepted natively on XRPL mainnet
+  (t54 facilitator), no signup or API keys. Machine-readable catalog at `/.well-known/pulse-catalog.json`.
+
 - [Block Trac](https://blocktr.ac) <a name="app/bloctrac"></a>
   💫 🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
   JSONPath expressions allow powerful filtering, example filters are provided, or you can use the create new 
