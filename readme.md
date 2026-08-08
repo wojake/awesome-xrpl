@@ -349,6 +349,11 @@ Application.
   with [Ledger][#ledger.com] wallets.
 
 
+##### [Ondex](https://ondex.money/) Wallets
+
+- [Ondex dApp Client](https://github.com/ondexlabs/ondex-dapp-client) - TypeScript helpers for connecting XRPL dApps to Ondex via WalletConnect and mobile links.
+
+
 ##### [XUMM][#xumm.app] Wallets
 
 - [XUMM SDK JS/TS][#xumm-sdk] - The TypeScript/JavaScript SDK for the [XUMM][#xumm.app] wallet,
@@ -501,6 +506,7 @@ Applications that integrate or involve the XRPL.
   user's XUMM Wallet. For power users, XUMM will offer a Pro subscription
   service that will enable additional functionality, like push notifications on
   all your wallet's activity.
+- [**Ondex**](https://ondex.money/) 📱 - A self-custodial XRP Ledger wallet for iOS and Android supporting XRP, issued tokens, NFTs, and native DEX and AMM interactions. Developers can connect XRPL dApps through the open-source [Ondex dApp Client](https://github.com/ondexlabs/ondex-dapp-client).
 - [**Ledger**][#ledger.com] - Ledger is a hardware wallet manufacturer. Their
   wallets support XRPL, and are supported by most tools, through their 
   [ledgerjs](https://github.com/LedgerHQ/ledgerjs) SDK. [LedgerHQ/app-xrp](https://github.com/LedgerHQ/app-xrp) is the source for the Ledger XRP app.
