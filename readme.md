@@ -511,6 +511,7 @@ Applications that integrate or involve the XRPL.
 - [**Paper Account Generator**](https://www.xrpaddress.org/) - A paper account generator entropy is created client-side. By [Wietse][#wietse]
 - [**Trustline**](https://trustline.co) 📱 <kbd>T</kbd> - A non-custodial stablecoin wallet for Android and iOS. The app runs on the Trustline Credit Network, which offers stable, fast, low-cost payments. The Aurei (AUR) stablecoin is the first trustless asset on the XRPL besides XRP.
 - 💎[**GemWallet**](https://gemwallet.app) 🌐 - GemWallet is a non-custodial wallet for web browsers. It is the web3 bridge between the blockchain (XRPL) and your web browser. It provides an [API](https://gemwallet.app/docs/user-guide/introduction) to interact with it.
+- [**Vultisig**](https://vultisig.com) 📱 🌐 - An open-source, non-custodial multi-chain wallet that replaces the seed phrase with multi-party computation (MPC) threshold signing. Supports XRP send and receive, destination tags, and trust lines on iOS, Android, desktop, and as a browser extension. src: [vultisig](https://github.com/vultisig)
 
 
 # PayString
