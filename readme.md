@@ -473,6 +473,7 @@ Applications that integrate or involve the XRPL.
   💫 🪄✨ - Constant monitoring of an account on various block chains, including XRPL. 
   JSONPath expressions allow powerful filtering, example filters are provided, or you can use the create new 
   filter wizard. _Formerly known as ZerpTracker._
+- [DreamWidget](https://dreamwidget.com/crypto.html): Website widget service (logo showcases, a video wall) that accepts XRP for a month or a year of a plan, and sells plans to AI agents by x402 on the XRP Ledger through t54's facilitator.
 - [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion) There's a 
   corresponding 📱 App that requires registration here.
 - [XRPhone](https://xrphone.app): Pay merchant invoices over the phone using XRP. [Source](https://github.com/jremi/xrphone)
