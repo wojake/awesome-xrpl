@@ -479,6 +479,7 @@ Applications that integrate or involve the XRPL.
 - [XUMM.community](https://xumm.community/) 🪄✨ <kbd>M</kbd><kbd>T</kbd>
   <a name="app/xumm-community"></a> - Xumm Community is a useful wizard/tool that compliments the 
   XUMM wallet
+- [Thoth Oracle](https://thothoracle.com) - Daily riddle generated from real XRPL mainnet ledger data, an AI ledger oracle, and a server-verified card duel. Read-only, Xaman sign-in.
 
 ## Mobile
 - [Spend The Bits](https://spendthebits.com/) 📱 App that let's you save and send Bitcoin _instantly_ by leveraging the XRPL
