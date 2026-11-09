@@ -270,7 +270,7 @@ Aliases:
 - [xrp.fans](https://xrp.fans/) _[Source](https://github.com/WietseWind/rippled-ws-client-dashboard)_- Dashboard Debugging & Development for the XRPL
 - [XRPL Composer](https://graph.trustline.co) 💫 <kbd>T</kbd> - Create, visualize, and validate complex payment paths on the XRP Ledger
 - [XRPL Attendify](https://github.com/JustAnotherDevv/AttendifyXRPL) - Mint, distribute NFTs and verify attendance at a wide range of events and activities. Includes example implementation for ExpressJS API
-- [Vextorium XRPL data APIs](https://api.vextorium.com/) - Pay-per-call JSON APIs for apps and AI agents: AMM pools and LP positions, DEX order book and swap quotes, RLUSD holders, issued tokens, escrows, price oracles, MPT, credentials and network status. Paid per call over x402 (RLUSD on the XRPL, or USDC).
+- [Vextorium](https://api.vextorium.com/) - 200+ pay-per-call data APIs for apps and AI agents: official statistics, economic data, crypto prices and compliance checks. Accepts x402 payments in RLUSD or XRP on the XRP Ledger; also supports USDC on other networks.
 
 See also [**XRPL.org Dev Tools**](https://xrpl.org/dev-tools.html), the list
 below are shortcuts for convenience.
