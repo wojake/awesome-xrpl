@@ -512,6 +512,8 @@ Applications that integrate or involve the XRPL.
 - [**Trustline**](https://trustline.co) 📱 <kbd>T</kbd> - A non-custodial stablecoin wallet for Android and iOS. The app runs on the Trustline Credit Network, which offers stable, fast, low-cost payments. The Aurei (AUR) stablecoin is the first trustless asset on the XRPL besides XRP.
 - 💎[**GemWallet**](https://gemwallet.app) 🌐 - GemWallet is a non-custodial wallet for web browsers. It is the web3 bridge between the blockchain (XRPL) and your web browser. It provides an [API](https://gemwallet.app/docs/user-guide/introduction) to interact with it.
 
+- [**Fluid**](https://fluidwallet.dpdns.org) 🌐 - Fluid is a free, open-source, non-custodial multi-chain wallet that runs in the browser. One seed phrase holds XRP alongside 60 other blockchains, with built-in cross-chain swaps and no KYC. [Source](https://github.com/Townsvilledh/fluid-wallet)
+
 
 # PayString
 
