@@ -557,6 +557,8 @@ These are networks that run in parallel to the XRPL, the XRP input into the netw
   [state connectors](https://docs.flare.network/en/state-connector).
   - 🔗 [FXRP Whitepaper](https://drive.google.com/file/d/1ftqaiUgU7-57KEFzYQ807h9pwUzsE84Y/view) 
   - 🔗 [All Whitepapers](https://flare.xyz/whitepapers/)
+- [**Fluid**](https://fluidwallet.dpdns.org) 🌐 - Fluid is a free, open-source, non-custodial multi-chain wallet that runs in the browser. One seed phrase holds XRP alongside 60 other blockchains, with built-in cross-chain swaps and no KYC. [Source](https://github.com/Townsvilledh/fluid-wallet)
+
 
 
 
